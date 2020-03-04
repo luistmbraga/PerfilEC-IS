@@ -8,7 +8,7 @@ class ComunicacaoDAO:
     def insertComunicacao(self, ip, porta):
         cursor = self.connector.cursor(buffered=True)
         insert = ("INSERT INTO Comunicacao "
-                  "(idCommunication, ip, porta)"
+                  "(idComunicacao, ip, porta) "
                   "VALUES (%(id)s, %(ip)s, %(porta)s )")
         dados = {
             'id': 1,
@@ -25,3 +25,29 @@ class ComunicacaoDAO:
         cursor.execute(update)
         self.connector.commit()
         cursor.close()
+
+    def comunicacaoExists(self):
+        query = ("SELECT ip FROM comunicacao WHERE idComunicacao = 1")
+        cursor = self.connector.cursor()
+        cursor.execute(query)
+        r = cursor.fetchone() is not None
+        cursor.close()
+        return r
+
+    def getIp(self):
+        cursor = self.connector.cursor(buffered=True)
+        query = "SELECT ip FROM comunicacao WHERE idComunicacao = 1"
+        cursor.execute(query)
+        comunicacao = cursor.fetchone()
+        ip = str(comunicacao[0])
+        cursor.close()
+        return ip
+
+    def getPorta(self):
+        cursor = self.connector.cursor(buffered=True)
+        query = "SELECT porta FROM comunicacao WHERE idComunicacao = 1"
+        cursor.execute(query)
+        comunicacao = cursor.fetchone()
+        porta = str(comunicacao[0])
+        cursor.close()
+        return porta

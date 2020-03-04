@@ -35,6 +35,9 @@ class MenuInicial:
             if opcao == 2:
                 self.escolherExame()
                 continue
+            if opcao == 3:
+                self.printMenuComunicacao()
+                continue
             if opcao == 4:
                 sys.exit()
             if opcao == 5 and not comunicacao:
@@ -57,3 +60,33 @@ class MenuInicial:
             MenuExame(self.facade, id).printMenu()
         else:
             print("Exame indisponível para avaliação !")
+
+    def printMenuComunicacao(self):
+        if self.facade.comunicacaoExists():
+            while True:
+                print("+-------Comunicacao--------+")
+                print("+                          +")
+                print("+  Definições Actuais:     +")
+                print("+      IP: " + self.facade.getIp())
+                print("+      Porta: " + self.facade.getPorta())
+                print("+                          +")
+                print("+  1  -  Redefinir         +")
+                print("+                          +")
+                print("+  2  -  Sair              +")
+                print("+                          +")
+                print("+--------------------------+")
+
+                opcao = int(input())
+
+                if opcao == 1:
+                    ip = input("IP: ")
+                    porta = input("Porta: ")
+                    self.facade.updateComunicacao(ip, porta)
+                    continue
+                if opcao == 2:
+                    return
+        else:
+            print("Defina os dados da comunicacao: ")
+            ip = input("IP: ")
+            porta = input("Porta: ")
+            self.facade.insertComunicacao(ip, porta)

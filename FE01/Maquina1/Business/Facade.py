@@ -101,3 +101,28 @@ class Facade:
             str = "Exame cancelado !"
         self.__init__()
         return str
+
+    #################### Comunicacao
+
+    def insertComunicacao(self, ip, porta):
+        self.comunicacaoDAO.insertComunicacao(ip, porta);
+        self.__init__()
+
+    def updateComunicacao(self, ip, porta):
+        self.comunicacaoDAO.updateComunicacao(ip, porta)
+        self.__init__()
+
+    def comunicacaoExists(self):
+        r = self.comunicacaoDAO.comunicacaoExists()
+        self.__init__()
+        return r
+
+    def getIp(self):
+        ip = self.comunicacaoDAO.getIp()
+        self.__init__()
+        return ip
+
+    def getPorta(self):
+        porta = self.comunicacaoDAO.getPorta()
+        self.__init__()
+        return porta

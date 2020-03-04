@@ -1,6 +1,7 @@
 import socket
 
 from Maquina1.Business.Models.ORM_MESSAGE import ORM_MESSAGE
+from Maquina1.Persistence.ComunicacaoDAO import ComunicacaoDAO
 from Maquina1.Persistence.ConsultaDAO import ConsultaDAO
 from Maquina1.Persistence.ListaTrabalho_PedidoDAO import ListaTrabalho_PedidoDAO
 import sched, time
@@ -13,12 +14,16 @@ class ListaTrabalho_PedidoThread:
         self.listaTrabalhoDAO = ListaTrabalho_PedidoDAO()
         self.consultaDAO = ConsultaDAO()
         self.utenteDAO = UtenteDAO()
+        self.comunicacaoDAO = ComunicacaoDAO()
         self.sch = sched.scheduler(time.time, time.sleep)
         self.time = 3
         self.cs = socket.socket()
-        #self.host = socket.gethostname()
-        self.host = "localhost"
-        self.porta = 3002
+        if self.comunicacaoDAO.comunicacaoExists():
+            self.host = self.comunicacaoDAO.getIp()
+            self.porta = int(self.comunicacaoDAO.getPorta())
+        else:
+            self.host = "localhost" # "172.26.125.57"
+            self.porta = 3002
 
     def run(self):
         while True:
@@ -27,7 +32,6 @@ class ListaTrabalho_PedidoThread:
             print("A thread pedidos está a correr")
             cursor = self.listaTrabalhoDAO.getAll()
             for(idListaTrabalho_Pedido, Consulta_idConsulta, idExame, informacaoClinicaExtra, estado, exameCodigo) in cursor:
-                print("Tenho dados")
                 consulta = self.consultaDAO.getConsultaByID(Consulta_idConsulta)
                 idUtente = consulta.idUtente
                 utente = self.utenteDAO.getUtenteByID(idUtente)
@@ -59,9 +63,6 @@ class ListaTrabalho_PedidoThread:
 
                 self.listaTrabalhoDAO.deletePedidoByID(idListaTrabalho_Pedido)
 
-            print("Vou descansar")
-            #self.sch.enter(self.time, 1, self.run)
-            #self.sch.run()
             time.sleep(self.time)
 
 

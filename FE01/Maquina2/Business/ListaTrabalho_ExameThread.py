@@ -3,6 +3,7 @@ import socket
 import time
 
 from Maquina2.Business.Models.ORM_MESSAGE import ORM_MESSAGE
+from Maquina2.Persistence.ComunicacaoDAO import ComunicacaoDAO
 from Maquina2.Persistence.ConsultaDAO import ConsultaDAO
 from Maquina2.Persistence.ExameDAO import ExameDAO
 from Maquina2.Persistence.ListaTrabalho_ExameDAO import ListaTrabalho_ExameDAO
@@ -14,12 +15,17 @@ class ListaTrabalho_ExameThread:
         self.listaTrabalhoDAO = ListaTrabalho_ExameDAO()
         self.consultaDAO = ConsultaDAO()
         self.utenteDAO = UtenteDAO()
+        self.comunicacaoDAO = ComunicacaoDAO()
         self.exameDAO = ExameDAO()
         self.sch = sched.scheduler(time.time, time.sleep)
         self.time = 3
         self.cs = socket.socket()
-        self.host = socket.gethostname()
-        self.porta = 3001
+        if self.comunicacaoDAO.comunicacaoExists():
+            self.host = self.comunicacaoDAO.getIp()
+            self.porta = int(self.comunicacaoDAO.getPorta())
+        else:
+            self.host = "localhost" # "172.26.125.57"
+            self.porta = 3001
 
     def run(self):
         while True:
