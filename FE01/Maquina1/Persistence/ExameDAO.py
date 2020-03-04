@@ -32,6 +32,15 @@ class ExameDAO:
         self.connector.commit()
         cursor.close()
 
+    def updateEstadoExameRela(self, idExame, estado, relatorio):
+        cursor = self.connector.cursor(buffered=True)
+        update = ("UPDATE Exame "
+                  "SET estado = '"+estado+"' , relatorio = '"+relatorio+"' " 
+                  "WHERE idExame = "+idExame+"")
+        cursor.execute(update)
+        self.connector.commit()
+        cursor.close()
+
     def getExamesConsulta(self, idConsulta):
         query = "SELECT * FROM Exame WHERE Consulta_idConsulta = " + idConsulta
         cursor = self.connector.cursor()

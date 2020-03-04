@@ -36,7 +36,11 @@ class Server:
 
                     self.exameDAO.insertExame(idExame, idConsulta, estado, relatorio, infoClinica, exameCodigo)
                 else:
-                    self.exameDAO.updateEstadoExame(idExame, estado)
+                    if estado == "OK":
+                        relatorio = hl7.ORM_O01_ORDER.ORM_O01_ORDER_DETAIL.ORM_O01_OBSERVATION.OBX.obx_5.value
+                        self.exameDAO.updateEstadoExameRela(idExame, estado, relatorio)
+                    else:
+                        self.exameDAO.updateEstadoExame(idExame, estado)
 
 
 if __name__ == "__main__":

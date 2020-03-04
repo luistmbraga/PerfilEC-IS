@@ -55,7 +55,7 @@ class ListaTrabalho_PedidoThread:
 
                 print(hl7.print())
 
-                self.cs.connect((self.host, self.porta))
+                print(self.cs.connect((self.host, self.porta)))
 
                 self.cs.send(hl7.getValue().encode('utf-8'))
 
