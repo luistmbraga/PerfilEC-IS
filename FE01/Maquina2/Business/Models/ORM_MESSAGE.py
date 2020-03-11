@@ -43,8 +43,9 @@ class ORM_MESSAGE:
         self.hl7.ORM_O01_PATIENT.ORM_O01_PATIENT_VISIT.PV1.pv1_44 = admitTime       # Admit Date/Time	    24
 
     # https://hl7-definition.caristix.com/v2/HL7v2.6/Segments/ORC
-    def set_ORC(self, orderControl):
+    def set_ORC(self, orderControl, status):
         self.hl7.ORM_O01_ORDER.orc.orc_1 = orderControl  # order control         2     https://hl7-definition.caristix.com/v2/HL7v2.6/Tables/0119  estado
+        self.hl7.ORM_O01_ORDER.orc.orc_5 = status
 
     # https://hl7-definition.caristix.com/v2/HL7v2.6/Segments/OBR
     def set_OBR(self, idExame, exameCodigo, clinicalInfo):

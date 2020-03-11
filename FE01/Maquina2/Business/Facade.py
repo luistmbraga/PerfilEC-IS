@@ -31,11 +31,27 @@ class Facade:
         self.__init__()
         return r
 
-    def escreverRelatorio(self, idExame, relatorio):
-        self.exameDAO.updateEstadoExame(idExame, "OK")
-        self.exameDAO.updateRelatorio(idExame, relatorio)
-        self.listaTrabalhoDAO.insertNovoPedido(idExame)
+    def finalizarExame(self, idExame):
+        exame = self.exameDAO.getExameByID(idExame)
+        if exame.estado == "CM":
+            str = "Exame já foi finalizado !"
+        else:
+            self.exameDAO.updateEstadoExame(idExame, "CM")
+            self.listaTrabalhoDAO.insertNovoPedido(idExame)
+            str = "Exame finalizado !"
         self.__init__()
+        return str
+
+    def escreverRelatorio(self, idExame, relatorio):
+        exame = self.exameDAO.getExameByID(idExame)
+        if exame.estado == "CM":
+            str = "Relatório efectuado !"
+            self.exameDAO.updateRelatorio(idExame, relatorio)
+            self.listaTrabalhoDAO.insertNovoPedido(idExame)
+        else:
+            str = "Exame não finalizado !"
+        self.__init__()
+        return str
 
     #################### Comunicacao
 

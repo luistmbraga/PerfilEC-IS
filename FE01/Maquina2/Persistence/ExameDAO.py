@@ -60,7 +60,7 @@ class ExameDAO:
         cursor.close()
 
     def getExamesNaoRealizados(self):
-        query = "SELECT * FROM Exame WHERE estado = 'NW'"
+        query = "SELECT * FROM Exame WHERE estado = 'NW' OR (estado = 'CM' AND relatorio = 'NULL')"
         cursor = self.connector.cursor()
         cursor.execute(query)
         result = []
@@ -92,12 +92,12 @@ class ExameDAO:
         return r
 
     def exameNaoRealizadoExiste(self, idE):
-        query = ("SELECT estado "
+        query = ("SELECT estado, relatorio "
                  "FROM Exame "
                  "WHERE idExame = " + str(idE))
         cursor = self.connector.cursor()
         cursor.execute(query)
         dados = cursor.fetchone()
-        r = ((dados is not None) and str(dados[0]) == "NW")
+        r = ((dados is not None) and (str(dados[0]) == "NW" or (str(dados[0]) == "CM") and str(dados[1]) == "NULL"))
         cursor.close()
         return r

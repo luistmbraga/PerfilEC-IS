@@ -92,7 +92,7 @@ class Facade:
 
     def cancelarExame(self, idConsulta, idExame):
         exame = self.exameDAO.getExameByID(idExame)
-        if exame.estado == "OK":
+        if exame.estado == "CM":
             str = "Exame já foi realizado !"
         else:
             if exame.estado == "CA":

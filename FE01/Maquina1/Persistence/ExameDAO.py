@@ -63,7 +63,7 @@ class ExameDAO:
     def exameNotExists(self, idC, idE):
         query = ("SELECT idExame "
                  "FROM Exame e, Consulta c "
-                 "WHERE e.idExame = "+idE+" AND c.idConsulta = "+idC+" AND c.idConsulta = e.Consulta_idConsulta")
+                 "WHERE e.idExame = "+str(idE)+" AND c.idConsulta = "+str(idC)+" AND c.idConsulta = e.Consulta_idConsulta")
         cursor = self.connector.cursor()
         cursor.execute(query)
         r = cursor.fetchone() is None

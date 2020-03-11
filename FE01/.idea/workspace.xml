@@ -26,17 +26,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Maquina2/Business/Models" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\PerfilEC-IS\FE01" />
-      <recent name="D:\IS\FE01\Maquina2\Presentation" />
-      <recent name="D:\IS\FE01\Maquina2\Business" />
-      <recent name="D:\IS\FE01\Maquina2\Persistence" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IS\FE01\Maquina2\Business" />
       <recent name="D:\IS\FE01\Maquina1\Business" />
@@ -44,29 +38,15 @@
       <recent name="D:\IS\FE01\Maquina1\Business\Models" />
       <recent name="D:\IS\FE01\HL7\ORM_Message" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PerfilEC-IS\FE01\Maquina2\Business\Models" />
+      <recent name="D:\GitHub\PerfilEC-IS\FE01" />
+      <recent name="D:\IS\FE01\Maquina2\Presentation" />
+      <recent name="D:\IS\FE01\Maquina2\Business" />
+      <recent name="D:\IS\FE01\Maquina2\Persistence" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.messagetesteORU">
-    <configuration name="ListaTrabalho_ExameThread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FE01" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maquina2/Business" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maquina2/Business/ListaTrabalho_ExameThread.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Maquina2App">
     <configuration name="ListaTrabalho_PedidoThread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FE01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +110,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FE01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maquina1/Business" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maquina1/Business/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="messagetesteORU" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FE01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.messagetesteORU" />
         <item itemvalue="Python.Maquina2App" />
         <item itemvalue="Python.Maquina1App" />
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.messagetesteORU" />
         <item itemvalue="Python.ListaTrabalho_PedidoThread" />
-        <item itemvalue="Python.ListaTrabalho_ExameThread" />
       </list>
     </recent_temporary>
   </component>
@@ -179,33 +180,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583193699986" />
-    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582886987389">
+    <state x="496" y="39" key="#Maquina1App" timestamp="1583953550393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1582886987389" />
-    <state width="1515" height="338" key="GridCell.Tab.0.bottom" timestamp="1583887391163">
+    <state x="496" y="39" key="#Maquina1App/0.0.1536.824@0.0.1536.824" timestamp="1583953550393" />
+    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583934121891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="338" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583887391163" />
-    <state width="1515" height="338" key="GridCell.Tab.0.center" timestamp="1583887391163">
+    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1583934121891" />
+    <state width="1515" height="574" key="GridCell.Tab.0.bottom" timestamp="1583953761878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="338" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583887391163" />
-    <state width="1515" height="338" key="GridCell.Tab.0.left" timestamp="1583887391163">
+    <state width="1515" height="574" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583953761878" />
+    <state width="1515" height="574" key="GridCell.Tab.0.center" timestamp="1583953761878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="338" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583887391163" />
-    <state width="1515" height="338" key="GridCell.Tab.0.right" timestamp="1583887391163">
+    <state width="1515" height="574" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583953761878" />
+    <state width="1515" height="574" key="GridCell.Tab.0.left" timestamp="1583953761878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="338" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583887391163" />
+    <state width="1515" height="574" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583953761878" />
+    <state width="1515" height="574" key="GridCell.Tab.0.right" timestamp="1583953761878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="574" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583953761878" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1583323792431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583323792431" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583877835431">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583953591539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583877835431" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583953591539" />
   </component>
 </project>

@@ -44,7 +44,7 @@ class ListaTrabalho_PedidoThread:
                 # set_PV1(self, sequenceId, attendingDoctor, admitTime)
                 hl7.set_PV1(consulta.idConsulta, consulta.nomeMedico, consulta.data.replace('-', ''))
                 # set_ORC(self, orderControl)
-                hl7.set_ORC(estado)
+                hl7.set_ORC(estado, "")
                 # set_OBR(self, idExame, exameCodigo, clinicalInfo)
                 if idExame is None:
                     hl7.set_OBR("NULL", exameCodigo, informacaoClinicaExtra)
