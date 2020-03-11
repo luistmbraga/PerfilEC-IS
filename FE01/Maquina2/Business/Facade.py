@@ -26,7 +26,7 @@ class Facade:
         self.__init__()
         return exame.toString()
 
-    def exameRealizadoExiste(self, idExame):
+    def exameNaoRealizadoExiste(self, idExame):
         r = self.exameDAO.exameNaoRealizadoExiste(idExame)
         self.__init__()
         return r

@@ -94,13 +94,19 @@ class Facade:
         exame = self.exameDAO.getExameByID(idExame)
         if exame.estado == "OK":
             str = "Exame já foi realizado !"
-        if exame.estado == "CA":
-            str = "Exame já foi cancelado !"
         else:
-            self.listaTrabalhoDAO.insertAlteracaoPedido(idConsulta, idExame, "CA")
-            str = "Exame cancelado !"
+            if exame.estado == "CA":
+                str = "Exame já foi cancelado !"
+            else:
+                self.listaTrabalhoDAO.insertAlteracaoPedido(idConsulta, idExame, "CA")
+                str = "Exame cancelado !"
         self.__init__()
         return str
+
+    def exameNaoRealizadoExiste(self, idExame):
+        r = self.exameDAO.exameNaoRealizadoExiste(idExame)
+        self.__init__()
+        return r
 
     #################### Comunicacao
 
@@ -126,3 +132,4 @@ class Facade:
         porta = self.comunicacaoDAO.getPorta()
         self.__init__()
         return porta
+

@@ -56,7 +56,7 @@ class MenuInicial:
 
     def escolherExame(self):
         id = input("Identificador do Exame: ")
-        if self.facade.exameRealizadoExiste(id):
+        if self.facade.exameNaoRealizadoExiste(id):
             MenuExame(self.facade, id).printMenu()
         else:
             print("Exame indisponível para avaliação !")

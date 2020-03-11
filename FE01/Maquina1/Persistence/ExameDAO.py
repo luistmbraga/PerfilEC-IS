@@ -69,3 +69,14 @@ class ExameDAO:
         r = cursor.fetchone() is None
         cursor.close()
         return r
+
+    def exameNaoRealizadoExiste(self, idE):
+        query = ("SELECT estado "
+                 "FROM Exame "
+                 "WHERE idExame = " + str(idE))
+        cursor = self.connector.cursor()
+        cursor.execute(query)
+        dados = cursor.fetchone()
+        r = ((dados is not None) and str(dados[0]) == "NW")
+        cursor.close()
+        return r
