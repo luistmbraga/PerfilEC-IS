@@ -22,7 +22,7 @@ df=pd.DataFrame({'x': msgTam, 'y': roundTime })
 
 plt.plot( 'x', 'y', data=df, marker='o', color='skyblue')
 plt.title("Round Trip Time em função do tamanho", loc='left', fontsize=12, fontweight=0, color='black')
-plt.xlabel("Tamanho")
+plt.xlabel("Tamanho (length da string)")
 plt.ylabel("Round Trip Time (s)")
 plt.show()
 

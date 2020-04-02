@@ -47,4 +47,4 @@ while True:
         cursor2.close()
 
     cursor.close()
-    time.sleep(10)
+    time.sleep(1)
