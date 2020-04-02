@@ -76,7 +76,8 @@ class ORM_MESSAGE:
         return self.hl7.validate()
 
     def print(self):
-        return self.hl7.value.replace('\r', '\n')
+        #return self.hl7.value
+       return self.hl7.value.replace('\r', '\n')
 
     def getValue(self):
         return self.hl7.value
