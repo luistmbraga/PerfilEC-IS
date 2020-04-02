@@ -18,9 +18,12 @@ for (mensagemTxt, roundTripTime) in cursor:
 
 cursor.close()
 
-df=pd.DataFrame({'x': roundTime, 'y': msgTam })
+df=pd.DataFrame({'x': msgTam, 'y': roundTime })
 
 plt.plot( 'x', 'y', data=df, marker='o', color='skyblue')
+plt.title("Round Trip Time em função do tamanho", loc='left', fontsize=12, fontweight=0, color='black')
+plt.xlabel("Tamanho")
+plt.ylabel("Round Trip Time (s)")
 plt.show()
 
 
@@ -42,4 +45,7 @@ cursor.close()
 df2=pd.DataFrame({'x': numM, 'y': tGeracao })
 
 plt.plot( 'x', 'y', data=df2, marker='o', color='skyblue')
+plt.title("Tempo de Geração em função do número de Mensagens", loc='left', fontsize=12, fontweight=0, color='black')
+plt.xlabel("número de mensagens")
+plt.ylabel("tempo de geração (s)")
 plt.show()
