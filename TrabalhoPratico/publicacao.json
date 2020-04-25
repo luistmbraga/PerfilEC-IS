@@ -1,0 +1,12 @@
+{
+    "_id": "titulo",
+    "eid": "",
+    "doi": "",
+    "wos": "",
+    "local_de_publicacao": "",
+    "ano": "",
+    "autores": ["lista de ids"],
+    "numero_citacoes": "",
+    "numero_citacoes_ultimos_3_anos": "",
+    "SJR": ""
+}
