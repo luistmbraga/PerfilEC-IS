@@ -28,11 +28,9 @@ class ORCIDAlgoritmiBot:
                 print(self.driver.find_element_by_class_name('Profile-ResearcherName'). text, ' não possui orcid')
 
     def writetofile(self):
-        f = open("orcids.json", "a")
-        f.write("[\n")
+        f = open("orcids.txt", "a")
         for orcid in self.orcids:
-            f.write("{\"id\": \"" + orcid  +"\"},\n")
-        f.write("]")
+            f.write(orcid + "\n")
         f.close()
 
 
