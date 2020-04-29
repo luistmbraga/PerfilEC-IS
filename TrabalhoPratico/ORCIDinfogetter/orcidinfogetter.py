@@ -1,80 +1,56 @@
 import requests
 from dbConnection import userscol, pubscol
+import hashlib
 
 
 def get_info_publicacao(ORCID_ID_):
     resp = requests.get("https://pub.orcid.org/v3.0/" + ORCID_ID_ + "/works", headers={'Accept': 'application/json'})
     results = resp.json()
 
-    contador = 0
     for r in results['group']:
 
         title = r['work-summary'][0]['title']['title']['value']
 
+        year = 'None'
         doi = 'None'
-
+        eid = 'None'
+        wos = 'None'
+        local_de_publicacao = 'None'
         for extid in r['external-ids']['external-id']:
             if extid['external-id-type'] == 'doi':
                     doi = extid['external-id-value']
+            if extid['external-id-type'] == 'eid':
+                    eid = extid['external-id-value'][0 + 7:]
+            if extid['external-id-type'] == 'wosuid':
+                wos = extid['external-id-value']
 
-        print(doi, ' ', title)
-        contador += 1
-        """for r2 in r['work-summary']:
-            title = r2['title']['title']['value']
-            eid = 'None'
-            doi = 'None'
-            wos = 'None'
-            local_de_publicacao = 'None'
+        for journaltitle in r['work-summary']:
+            if journaltitle['journal-title'] is not None:
+                local_de_publicacao = journaltitle['journal-title']['value']
+                break
 
-            # eid
-            try:
-                orcid = r2['url']['value']
-                if orcid.find('eid=') > 0:
-                    k1 = orcid.find('eid=')
-                    k2 = orcid.find('&', k1)
-                    if orcid[k1 + 11:k2] not in my_list:
-                        eid = orcid[k1 + 11:k2]
-            except:
-                eid = 'None'
+        for ano in r['work-summary']:
+            if ano['publication-date'] is not None:
+                if ano['publication-date']['year'] is not None:
+                    year = ano['publication-date']['year']['value']
+                    break
 
-            # ano
-            try:
-                ano = r2['publication-date']['year']['value']
-            except:
-                ano = 'None'
+        str2encode = title + year + eid + doi + wos
+        tid = hashlib.md5(str2encode.encode())
+        newid = tid.hexdigest()
 
-            # doi
-            try:
-                for extid in r2['external-ids']['external-id']:
-                    if extid['external-id-type'] == 'doi':
-                        doi = extid['external-id-value']
-            except:
-                doi = 'None'
+        try:
+            pubscol.insert_one(
+                {"_id": newid, "titulo": title, "eid": eid, "doi": doi, "wos": wos, "local_de_publicacao": local_de_publicacao,
+                 "ano": year, "autores": [ORCID_ID_], "numero_citacoes": '', "numero_citacoes_ultimos_3_anos": '', "SJR": ''})
+        except:
+            pubscol.update_one({"$and": [{"_id": newid}, {'autores':{"$nin": [ORCID_ID_]}}]}, {"$push": {"autores": ORCID_ID_}})
+        finally:
+            userscol.update_one({"$and": [{"_id": ORCID_ID_}, {'publicacoes':{"$nin": [newid]}}]} , {"$push": {"publicacoes": newid}})
+            #userscol.update_one({"_id": ORCID_ID_}, {"$push": {"publicacoes": newid}})
 
-            # wos
-            try:
-                for extid in r2['external-ids']['external-id']:
-                    if extid['external-id-type'] == 'wosuid':
-                        wos = extid['external-id-value']
-            except:
-                wos = 'None'
+        #print(id.hexdigest(), ' ', doi, ' ', title, ' ', eid, ' ', wos, ' ', year, ' ', local_de_publicacao)
 
-            # local_de_publicacao
-            try:
-                local_de_publicacao = r2['journal-title']['value']
-            except:
-                local_de_publicacao = 'None'
-
-             my_list.append((title, eid, ano, doi, wos, local_de_publicacao))
-            try:
-                pubscol.insert_one({"_id": title, "eid": eid, "doi": doi, "wos": wos, "local_de_publicacao": local_de_publicacao,
-                                    "autores": [ORCID_ID_], "numero_citacoes": '', "numero_citacoes_ultimos_3_anos": '', "SJR": ''})
-            except:
-                pubscol.update_one({"_id": title}, {"$push": {"autores": ORCID_ID_}})
-            finally:
-                userscol.update_one({"_id": ORCID_ID_}, {"$push": {"publicacoes": title}})"""
-    print(contador)
-    # print(my_list)
 
 
 def readfile(path):
