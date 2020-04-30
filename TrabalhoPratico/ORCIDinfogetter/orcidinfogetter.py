@@ -3,9 +3,11 @@ from dbConnection import userscol, pubscol
 import hashlib
 
 
-def get_info_publicacao(ORCID_ID_):
+def get_info_publicacao(ORCID_ID_, nomeautor):
     resp = requests.get("https://pub.orcid.org/v3.0/" + ORCID_ID_ + "/works", headers={'Accept': 'application/json'})
     results = resp.json()
+
+    autor = {"id": ORCID_ID_, "nome": nomeautor}
 
     for r in results['group']:
 
@@ -42,11 +44,12 @@ def get_info_publicacao(ORCID_ID_):
         try:
             pubscol.insert_one(
                 {"_id": newid, "titulo": title, "eid": eid, "doi": doi, "wos": wos, "local_de_publicacao": local_de_publicacao,
-                 "ano": year, "autores": [ORCID_ID_], "numero_citacoes": '', "numero_citacoes_ultimos_3_anos": '', "SJR": ''})
+                 "ano": year, "autores": [autor], "numero_citacoes": '', "numero_citacoes_ultimos_3_anos": '', "SJR": ''})
         except:
-            pubscol.update_one({"$and": [{"_id": newid}, {'autores':{"$nin": [ORCID_ID_]}}]}, {"$push": {"autores": ORCID_ID_}})
+            pubscol.update_one({"$and": [{"_id": newid}, {'autores.id':{"$nin": [ORCID_ID_]}}]}, {"$push": {"autores": autor}})
         finally:
-            userscol.update_one({"$and": [{"_id": ORCID_ID_}, {'publicacoes':{"$nin": [newid]}}]} , {"$push": {"publicacoes": newid}})
+            pub = {"id": newid, "titulo": title, "ano": year}
+            userscol.update_one({"$and": [{"_id": ORCID_ID_}, {'publicacoes.id':{"$nin": [newid]}}]} , {"$push": {"publicacoes": pub}})
             #userscol.update_one({"_id": ORCID_ID_}, {"$push": {"publicacoes": newid}})
 
         #print(id.hexdigest(), ' ', doi, ' ', title, ' ', eid, ' ', wos, ' ', year, ' ', local_de_publicacao)
@@ -65,8 +68,8 @@ def readfile(path):
 
 
 def complete_info():
-    for x in userscol.find({}, {"_id": 1}):
-        get_info_publicacao(x['_id'])
+    for x in userscol.find({}, {"_id": 1, "nome": 1}):
+        get_info_publicacao(x['_id'], x['nome'])
 
 
 if __name__ == '__main__':

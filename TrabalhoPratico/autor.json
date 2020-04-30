@@ -2,5 +2,11 @@
     "_id": "se que aqui vai o orcid dele",
     "nome": "",
     "numero_de_publicacoes": 0,
-    "publicacoes": ["lista de ids"]
+    "publicacoes": [
+        {
+            "_id": "",
+            "titulo": "",
+            "ano": ""
+        }
+    ]
 }

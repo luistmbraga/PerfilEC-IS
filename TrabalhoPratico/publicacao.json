@@ -11,3 +11,7 @@
     "numero_citacoes_ultimos_3_anos": "",
     "SJR": ""
 }
+
+mongoexport --collection=publicacoes --db=ISORCID --out="D:\GitHub\PerfilEC-IS\TrabalhoPratico\publicacoes.json" --jsonArray --pretty
+
+apiKey 90d8a7452d4e9c32bc2e0611c9db8160

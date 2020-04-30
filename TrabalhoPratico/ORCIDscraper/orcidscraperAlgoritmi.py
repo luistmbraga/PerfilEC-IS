@@ -26,11 +26,11 @@ class ORCIDAlgoritmiBot:
         chromeOptions.add_argument("--headless")
         chromeOptions.add_experimental_option("prefs", prefs)
         self.driver = webdriver.Chrome(options=chromeOptions)
-        self.driver.get("http://algoritmi.uminho.pt/members/")
         self.links = []
         self.orcids = []
 
-    def getLinks(self):
+    def getCurrentMembers(self):
+        self.driver.get("http://algoritmi.uminho.pt/members/")
         elementos = self.driver.find_element_by_xpath('//*[@id="result-result"]')
         linhas = elementos.find_elements_by_class_name('ResearcherResults-Avatar')
 
@@ -39,18 +39,30 @@ class ORCIDAlgoritmiBot:
 
         print('Encontrados ' , len(linhas), ' elementos na equipa.')
 
+    def getFormerMembers(self):
+        self.driver.get("http://algoritmi.uminho.pt/former-members/")
+        elementos = self.driver.find_element_by_xpath('//*[@id="result-result"]')
+        linhas = elementos.find_elements_by_class_name('ResearcherResults-Avatar')
+
+        for id in linhas:
+            self.links.append(id.get_attribute('href'))
+
+        print('Encontrados ' , len(linhas), ' elementos na equipa.')
 
     def getOrcid(self):
 
         for link in self.links:
             self.driver.get(str(link))
-            name = self.driver.find_element_by_class_name('Profile-ResearcherName').text
 
             try:
-                id = self.driver.find_element_by_xpath("//a[contains(@href,'http://orcid.org/')]").text
-                userscol.insert_one({"_id": id, "nome": name, "publicacoes": []})
+                name = self.driver.find_element_by_class_name('Profile-ResearcherName').text
+                try:
+                    id = self.driver.find_element_by_xpath("//a[contains(@href,'http://orcid.org/')]").text
+                    userscol.insert_one({"_id": id, "nome": name, "publicacoes": []})
+                except:
+                    print(name, ' não possui orcid')
             except:
-                print(name, ' não possui orcid')
+                print('página sem nome')
 
 
     def writetofile(self):
@@ -61,7 +73,8 @@ class ORCIDAlgoritmiBot:
 
 
     def main(self, bot):
-        bot.getLinks()
+        bot.getCurrentMembers()
+        bot.getFormerMembers()
         bot.getOrcid()
         self.driver.close()
 
@@ -69,6 +82,6 @@ class ORCIDAlgoritmiBot:
 if __name__ == "__main__":
     start = time.time()
     my_bot = ORCIDAlgoritmiBot()
+    my_bot.main(my_bot)
     end = time.time()
     print("tempo demorado ", end - start)
-    my_bot.main(my_bot)
