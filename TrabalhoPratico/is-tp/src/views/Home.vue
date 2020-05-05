@@ -17,7 +17,8 @@ export default {
   name: 'Home',
   components: {
     TabelaUsers
-  }
+  },
+
 }
 </script>
 
