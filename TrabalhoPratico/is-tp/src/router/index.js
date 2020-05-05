@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import User from '../views/User.vue'
+import Publicacao from '../views/Publicacao.vue'
 
 Vue.use(VueRouter)
 
@@ -23,6 +24,12 @@ Vue.use(VueRouter)
     path: '/user/:id',
     name: 'User',
     component: User,
+    props: true
+  },
+  {
+    path: '/publicacao/:id',
+    name: 'Publicacao',
+    component: Publicacao,
     props: true
   }
 ]

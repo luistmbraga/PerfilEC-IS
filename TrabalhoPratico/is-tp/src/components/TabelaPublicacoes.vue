@@ -15,7 +15,7 @@
       :headers="headers"
       :items="this.publicacoes"
       :search="search"
-      @click:row="viewUser"
+      @click:row="viewPublicacao"
     ></v-data-table>
   </v-card>
 </template>
@@ -28,19 +28,14 @@
       return {
         search: '', 
         headers: [
-          {
-            text: 'Id',
-            sortable: false,
-            value: 'id',
-          },
           { text: 'Título', value: 'titulo' },
           { text: 'Ano de Publicacão', value: 'ano'}
         ],
         } 
     },  
     methods: {
-      viewUser: function(item){
-        alert(item._id)
+      viewPublicacao: function(item){
+        this.$router.push({ name: 'Publicacao', params: {id : item.id, publicacao: item}})
       }
     }
 }
