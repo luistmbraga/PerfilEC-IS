@@ -2,3 +2,4 @@ venv/
 .idea/
 messageteste.py
 messagetesteORU.py
+node_modules

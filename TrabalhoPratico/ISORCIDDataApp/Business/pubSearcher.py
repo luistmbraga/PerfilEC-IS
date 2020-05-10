@@ -1,7 +1,9 @@
 import requests
-from dbConnection import userscol, pubscol
+from Persistence.dbConnection import userscol, pubscol
 import hashlib
+import json
 
+MY_API_KEY = "90d8a7452d4e9c32bc2e0611c9db8160"
 
 def get_info_publicacao(ORCID_ID_, nomeautor):
     resp = requests.get("https://pub.orcid.org/v3.0/" + ORCID_ID_ + "/works", headers={'Accept': 'application/json'})
@@ -50,11 +52,28 @@ def get_info_publicacao(ORCID_ID_, nomeautor):
         finally:
             pub = {"id": newid, "titulo": title, "ano": year}
             userscol.update_one({"$and": [{"_id": ORCID_ID_}, {'publicacoes.id':{"$nin": [newid]}}]} , {"$push": {"publicacoes": pub}})
-            #userscol.update_one({"_id": ORCID_ID_}, {"$push": {"publicacoes": newid}})
-
-        #print(id.hexdigest(), ' ', doi, ' ', title, ' ', eid, ' ', wos, ' ', year, ' ', local_de_publicacao)
 
 
+def get_scopus_info(SCOPUS_ID):
+    url = ("http://api.elsevier.com/content/abstract/scopus_id/"+ SCOPUS_ID
+           + "?field=authors,title,publicationName,volume,issueIdentifier,"
+           + "prism:pageRange,coverDate,article-number,doi,issn,citedby-count,prism:aggregationType")
+
+    resp = requests.get(url,headers={'Accept':'application/json','X-ELS-APIKey': MY_API_KEY})
+
+    print(json.loads(resp.text.encode('utf-8')))
+    """f = open("da.json", "w")
+    f.write(str(json.loads(resp.text.encode('utf-8'))))
+    f.close()"""
+
+    # https://api.elsevier.com/content/abstract/citations?scopus_id=38349047757&apiKey=xxxxxxxxxxx&httpAccept=application%2Fjson
+
+    url2 = ("https://api.elsevier.com/content/abstract/citations?scopus_id=" + SCOPUS_ID
+           + "&apiKey="+MY_API_KEY+"&httpAccept=application%2Fjson")
+
+    resp2 = requests.get(url2)
+
+    print(json.loads(resp2.text.encode('utf-8')))
 
 def readfile(path):
     f = open(path, "r")
@@ -73,5 +92,6 @@ def complete_info():
 
 
 if __name__ == '__main__':
-    complete_info()
+    #complete_info()
+    get_scopus_info("85045332393") # 85016006344 85057139340 85047267736 85045332393
     # readfile("../ORCIDscraper/orcids.txt")
