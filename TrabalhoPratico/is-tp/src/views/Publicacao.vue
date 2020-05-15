@@ -73,14 +73,6 @@
                     disabled
                     />
                     </v-flex>
-                    <v-flex xs6>                
-                    <v-text-field
-                    v-model="infoPublicacao.numero_citacoes_ultimos_3_anos"
-                    label="Número de Citações nos últimos 3 anos"
-                    outlined
-                    disabled
-                    />
-                    </v-flex>
                 </v-layout>
                 </v-col>
             </v-row>
