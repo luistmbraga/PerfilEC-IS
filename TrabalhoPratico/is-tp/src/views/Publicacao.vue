@@ -108,7 +108,7 @@ export default {
       var json = require('../../../publicacoes.json')
       var i = 0 
       for(; i < json.length; i++){
-          if(json[i].id == this.publicacao._id){
+          if(json[i]._id == this.publicacao.id){
               this.infoPublicacao = {
                   ano: json[i].ano,
                   eid : json[i].eid,
