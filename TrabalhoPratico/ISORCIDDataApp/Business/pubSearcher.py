@@ -32,6 +32,10 @@ class PubSearcher(Command):
             numero_citacoes = 'None'
             issn = 'None'
 
+            source_id_issn = 'None'
+
+            sjr = 'None'
+
             if (eid != 'None'):
                 newid = eid
                 resp = requests.get("http://api.elsevier.com/content/abstract/scopus_id/"+eid+"?field=issn,citedby-count"
@@ -82,7 +86,7 @@ class PubSearcher(Command):
         try:
             numero_citacoes = results["abstracts-retrieval-response"]["coredata"]["citedby-count"]
         except:
-            numero_citacoes = 'None'
+            numero_citacoes = '0'
 
         return numero_citacoes
 
