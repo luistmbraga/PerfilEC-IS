@@ -1,42 +1,4 @@
 [{
-	"_id": "85008467377",
-	"titulo": "Parallel improved Schnorr-Euchner enumeration SE++ on shared and distributed memory systems, with and without extreme pruning",
-	"eid": "85008467377",
-	"doi": "None",
-	"wos": "None",
-	"issn": "20935382 20935374",
-	"local_de_publicacao": "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications",
-	"ano": "2016",
-	"autores": [
-		{
-			"id": "0000-0001-6018-7346",
-			"nome": "Alberto José Gonçalves Carvalho Proença"
-		}
-	],
-	"numero_citacoes": "1",
-	"SJR": "None",
-	"source-id-issn": "None"
-},
-{
-	"_id": "84991577849",
-	"titulo": "Tuning pipelined scientific data analyses for efficient multicore execution",
-	"eid": "84991577849",
-	"doi": "10.1109/HPCSim.2016.7568410",
-	"wos": "None",
-	"issn": "None",
-	"local_de_publicacao": "2016 International Conference on High Performance Computing and Simulation, HPCS 2016",
-	"ano": "2016",
-	"autores": [
-		{
-			"id": "0000-0001-6018-7346",
-			"nome": "Alberto José Gonçalves Carvalho Proença"
-		}
-	],
-	"numero_citacoes": "0",
-	"SJR": "None",
-	"source-id-issn": "None"
-},
-{
 	"_id": "84962854673",
 	"titulo": "A generic and highly efficient parallel variant of Borůvka's algorithm",
 	"eid": "84962854673",
@@ -52,6 +14,25 @@
 		}
 	],
 	"numero_citacoes": "7",
+	"SJR": "None",
+	"source-id-issn": "None"
+},
+{
+	"_id": "85008467377",
+	"titulo": "Parallel improved Schnorr-Euchner enumeration SE++ on shared and distributed memory systems, with and without extreme pruning",
+	"eid": "85008467377",
+	"doi": "None",
+	"wos": "None",
+	"issn": "20935382 20935374",
+	"local_de_publicacao": "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0001-6018-7346",
+			"nome": "Alberto José Gonçalves Carvalho Proença"
+		}
+	],
+	"numero_citacoes": "1",
 	"SJR": "None",
 	"source-id-issn": "None"
 },
@@ -92,5 +73,24 @@
 	"numero_citacoes": "1",
 	"SJR": "0.347",
 	"source-id-issn": "4700152427"
+},
+{
+	"_id": "84991577849",
+	"titulo": "Tuning pipelined scientific data analyses for efficient multicore execution",
+	"eid": "84991577849",
+	"doi": "10.1109/HPCSim.2016.7568410",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2016 International Conference on High Performance Computing and Simulation, HPCS 2016",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0001-6018-7346",
+			"nome": "Alberto José Gonçalves Carvalho Proença"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source-id-issn": "None"
 }]
 

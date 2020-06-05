@@ -23,7 +23,7 @@ class ProcurarNovasPubs:
                 opcao = int(input())
 
                 if opcao == 1:
-                    os.system("start \"Procurar Novas Publicações\" py \"../Business/pubSearcher.py\"")
+                    os.system("start \"Procurar Novas Publicações\" py \"../Business/PubSearcher.py\"")
                     continue
                 if opcao == 2:
                     break
