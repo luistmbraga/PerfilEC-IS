@@ -99,12 +99,40 @@
 
 <script>
 // @ is an alias to /src
+import axios from "axios"
 
 export default {
   name: 'Publicacao',
   props: ['publicacao'],
-  created: function(){
+  data () {
+      return {
+        infoPublicacao: {}
+        } 
+    }, 
+  created: async function(){
+    
+      let response = await axios.get("http://localhost:3050/api/publicacoes/" + this.publicacao.id)
+        
+      //var json = await axios.get()
       // Ir á api depois
+    var element = response.data[0]
+
+          console.log(element)
+          this.infoPublicacao = {
+                  ano: element.ano,
+                  titulo: element.titulo,
+                  eid : element.eid,
+                  doi : element.doi,
+                  wos : element.wos,
+                  local_de_publicacao : element.local_de_publicacao,
+                  numero_citacoes : element.numero_citacoes,
+                  source_id_issn: element.source_id_issn,
+                  SJR : element.SJR,
+                  autores : element.autores
+            }
+
+    console.log(this.infoPublicacao)
+    /*
       var json = require('../../../publicacoes.json')
       var i = 0 
       for(; i < json.length; i++){
@@ -115,14 +143,14 @@ export default {
                   doi : json[i].doi,
                   wos : json[i].wos,
                   local_de_publicacao : json[i].local_de_publicacao,
-                  numero_citacoes : 0,
-                  numero_citacoes_ultimos_3_anos: 0,
-                  SJR : 100,
+                  numero_citacoes : json[i].numero_citacoes,
+                  source_id_issn: json[i].source_id_issn,
+                  SJR : json[i].SJR,
                   autores : json[i].autores
               }
               break;
           }
-      }
+      }*/
   },
   methods :{
       viewUser: function(id){

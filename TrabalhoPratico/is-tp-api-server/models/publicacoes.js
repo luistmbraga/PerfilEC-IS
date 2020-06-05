@@ -13,9 +13,8 @@ var publicacaoSchema = new Schema({
   autores :  [String],
   numero_citacoes : {type: Number},
   issn : {type: String},
-  isbn: {type: String},
+  souce_id_issn : {type: String},
   numero_citacoes : {type : Number},
-  numero_citacoes_ultimos_3_anos : {type : Number},
   SJR : {type: Number}
 })
 

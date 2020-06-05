@@ -75,7 +75,7 @@ class PubSearcher(Command):
             try:
                 pubscol.insert_one(
                     {"_id": newid, "titulo": title, "eid": eid, "doi": doi, "wos": wos, "issn": issn, "local_de_publicacao": local_de_publicacao,
-                     "ano": year, "autores": [autor], "numero_citacoes": numero_citacoes, "SJR": sjr, "source-id-issn": source_id_issn})
+                     "ano": year, "autores": [autor], "numero_citacoes": numero_citacoes, "SJR": sjr, "source_id_issn": source_id_issn})
             except:
                 pubscol.update_one({"$and": [{"_id": newid}, {'autores.id':{"$nin": [ORCID_ID_]}}]}, {"$push": {"autores": autor}})
             finally:

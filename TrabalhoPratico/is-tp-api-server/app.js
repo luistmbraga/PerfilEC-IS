@@ -1,11 +1,20 @@
 var createError = require('http-errors');
 var express = require('express');
+var cors = require('cors')
+const corsOpts = {
+    origin: '*',
+    credentials: true,
+    methods: ['GET', 'PUT', 'POST', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Accept', 'Authorization', 'Cache-Control', 'Content-Type', 'DNT', 'If-Modified-Since', 'Keep-Alive', 'Origin', 'User-Agent', 'X-Requested-With', 'Content-Length']
+}
+
 var path = require('path');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 
 var app = express();
+app.use(cors(corsOpts))
 
 var mongoose = require('mongoose')
 
@@ -21,7 +30,6 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
-
 app.use('/api/', indexRouter);
 
 // catch 404 and forward to error handler

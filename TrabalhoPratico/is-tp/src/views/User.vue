@@ -15,6 +15,7 @@
 
 <script>
 // @ is an alias to /src
+import axios from "axios"
 import TabelaPublicacoes from '../components/TabelaPublicacoes.vue';
 
 export default {
@@ -23,9 +24,10 @@ export default {
   components: {
     TabelaPublicacoes
   },
-  created: function(){
+  created: async function(){
       // ir buscar o utilizador a as publicacões á API para não ficar com informação pendente das outras páginas
-      
+      let response = await axios.get("http://localhost:3050/api/users/0000-0001-6018-7346")
+      console.log(response.data)
   }
 
 }

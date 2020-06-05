@@ -21,6 +21,7 @@
 </template>
 
 <script>
+import axios from "axios"
 
   export default {
     data () {
@@ -40,15 +41,16 @@
     }, 
     
     created: async function() {
-        // depois ir á api ou BD
-        var json = require('./../components/utilizadores.json');
-        var length = json.length
-        var i = 0
-        for(;i< length;i++){ 
-            var pub = json[i].publicacoes.length
-            var obj = {name: json[i].nome, _id: json[i]._id, nrPub: pub, publicacoes: json[i].publicacoes } 
-            this.utilizadores.push(obj)
-        } 
+
+        let response = await axios.get("http://localhost:3050/api/users")
+        
+
+        response.data.forEach(element => {
+          console.log(element)
+          var pub = element.publicacoes.length
+          var obj = {name: element.nome, _id: element._id, nrPub: pub, publicacoes: element.publicacoes } 
+          this.utilizadores.push(obj)
+        });
     }, 
     methods: {
       viewUser: function(item){
