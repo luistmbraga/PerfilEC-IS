@@ -2,8 +2,6 @@ import requests
 
 from Business.Command import Command
 from Persistence.dbConnection import userscol, pubscol
-import hashlib
-import json
 
 
 class PubSearcher(Command):
@@ -125,27 +123,6 @@ class PubSearcher(Command):
                     year = ano['publication-date']['year']['value']
                     break
         return year
-
-    def get_scopus_info(self, SCOPUS_ID):
-        url = ("http://api.elsevier.com/content/abstract/scopus_id/"+ SCOPUS_ID
-               + "?field=authors,title,publicationName,volume,issueIdentifier,"
-               + "prism:pageRange,coverDate,article-number,doi,issn,citedby-count,prism:aggregationType")
-
-        resp = requests.get(url,headers={'Accept':'application/json','X-ELS-APIKey': self.MY_API_KEY})
-
-        print(json.loads(resp.text.encode('utf-8')))
-        """f = open("da.json", "w")
-        f.write(str(json.loads(resp.text.encode('utf-8'))))
-        f.close()"""
-
-
-        url2 = ("https://api.elsevier.com/content/abstract/citations?scopus_id=" + SCOPUS_ID
-               + "&apiKey="+self.MY_API_KEY+"&httpAccept=application%2Fjson")
-
-        resp2 = requests.get(url2)
-
-        print(json.loads(resp2.text.encode('utf-8')))
-
 
     def complete_info(self):
         for x in userscol.find({}, {"_id": 1, "nome": 1}):
