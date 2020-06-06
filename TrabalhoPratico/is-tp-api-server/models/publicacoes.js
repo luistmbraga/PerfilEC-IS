@@ -15,7 +15,7 @@ var publicacaoSchema = new Schema({
   issn : {type: String},
   souce_id_issn : {type: String},
   numero_citacoes : {type : Number},
-  SJR : {type: Number}
+  SJR : {type: String}
 })
 
 module.exports = mongoose.model('publicacoes', publicacaoSchema)

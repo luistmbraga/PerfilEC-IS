@@ -32,29 +32,22 @@ import axios from "axios"
           {
             text: 'Nome do investigador',
             sortable: false,
-            value: 'name',
+            value: 'nome',
           },
           { text: 'ORCID', value: '_id' },
-          { text: 'Publicações', value: 'nrPub'}
+          { text: 'Publicações', value: "publicacoes.length"}
         ],
         } 
     }, 
     
     created: async function() {
-
-        let response = await axios.get("http://localhost:3050/api/users")
-        
-
-        response.data.forEach(element => {
-          console.log(element)
-          var pub = element.publicacoes.length
-          var obj = {name: element.nome, _id: element._id, nrPub: pub, publicacoes: element.publicacoes } 
-          this.utilizadores.push(obj)
-        });
+        // depois ir á api ou BD
+        let response = await axios.get('http://localhost:3050/api/users')
+        this.utilizadores = response.data 
     }, 
     methods: {
       viewUser: function(item){
-        this.$router.push({ name: 'User', params: {id: item._id, publicacoes: item.publicacoes, utilizador: {_id: item._id, nome: item.name} }})
+        this.$router.push({ name: 'User', params: {id: item._id }})
       }
     }
 }

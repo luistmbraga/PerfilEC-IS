@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <v-card-title class="justify-center">
-        Publicação {{publicacao.titulo}}
+        Publicação 
+        {{infoPublicacao.titulo}}
     </v-card-title>
     <div v-if="infoPublicacao == undefined"/>
     <v-container v-else>
@@ -64,7 +65,7 @@
                     />
                     </v-flex>
                 </v-layout>
-                    <v-layout row wrap>
+                <v-layout row wrap>
                     <v-flex xs6>
                     <v-text-field
                     v-model="infoPublicacao.numero_citacoes"
@@ -73,9 +74,22 @@
                     disabled
                     />
                     </v-flex>
+                    <v-flex xs6>
+                    <v-text-field
+                    v-model="infoPublicacao.issn"
+                    label="ISSN"
+                    outlined
+                    disabled
+                    />
+                    </v-flex>
                 </v-layout>
                 </v-col>
             </v-row>
+        <div v-if="infoPublicacao.source_id_issn != 'None'" >
+            <a v-bind:href="linkhref" title="SCImago Journal &amp; Country Rank">
+                <img border="0" v-bind:src="linksrc" alt="SCImago Journal &amp; Country Rank"  />
+            </a>
+        </div>
     </v-container>
     <v-container style="width:50%;">
             <v-card>
@@ -102,55 +116,22 @@
 import axios from "axios"
 
 export default {
-  name: 'Publicacao',
-  props: ['publicacao'],
-  data () {
+    data () {
       return {
-        infoPublicacao: {}
+        infoPublicacao: {},
+        linkhref: "",
+        linksrc: ""
         } 
-    }, 
+    },
+  name: 'Publicacao',
+  props: ['id'],
   created: async function(){
-    
-      let response = await axios.get("http://localhost:3050/api/publicacoes/" + this.publicacao.id)
-        
-      //var json = await axios.get()
       // Ir á api depois
-    var element = response.data[0]
-
-          console.log(element)
-          this.infoPublicacao = {
-                  ano: element.ano,
-                  titulo: element.titulo,
-                  eid : element.eid,
-                  doi : element.doi,
-                  wos : element.wos,
-                  local_de_publicacao : element.local_de_publicacao,
-                  numero_citacoes : element.numero_citacoes,
-                  source_id_issn: element.source_id_issn,
-                  SJR : element.SJR,
-                  autores : element.autores
-            }
-
-    console.log(this.infoPublicacao)
-    /*
-      var json = require('../../../publicacoes.json')
-      var i = 0 
-      for(; i < json.length; i++){
-          if(json[i]._id == this.publicacao.id){
-              this.infoPublicacao = {
-                  ano: json[i].ano,
-                  eid : json[i].eid,
-                  doi : json[i].doi,
-                  wos : json[i].wos,
-                  local_de_publicacao : json[i].local_de_publicacao,
-                  numero_citacoes : json[i].numero_citacoes,
-                  source_id_issn: json[i].source_id_issn,
-                  SJR : json[i].SJR,
-                  autores : json[i].autores
-              }
-              break;
-          }
-      }*/
+      var idPub = this.id.replace("/","%2F");
+      let response = await axios.get('http://localhost:3050/api/publicacoes/' + idPub)
+      this.infoPublicacao = response.data[0]
+      this.linkhref = "https://www.scimagojr.com/journalsearch.php?q="+this.infoPublicacao.source_id_issn+"&amp;tip=sid&amp;exact=no"
+      this.linksrc = "https://www.scimagojr.com/journal_img.php?id="+this.infoPublicacao.source_id_issn
   },
   methods :{
       viewUser: function(id){

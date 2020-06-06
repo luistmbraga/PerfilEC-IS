@@ -35,7 +35,7 @@
     },  
     methods: {
       viewPublicacao: function(item){
-        this.$router.push({ name: 'Publicacao', params: {id : item.id, publicacao: item}})
+        this.$router.push({ name: 'Publicacao', params: {id : item.id}})
       }
     }
 }
