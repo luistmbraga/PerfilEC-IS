@@ -98,9 +98,10 @@
                 <v-list-item
                     v-for="autor in infoPublicacao.autores"
                     :key="autor.id"
-                    @click="viewUser(autor.id)"
+                    @click="redirectToUser(autor.id)" 
+                
                 >
-                    <v-list-item-content style="width: 50%;">
+                    <v-list-item-content style="width: 50%;"> 
                         <v-list-item-title v-text="autor.nome"></v-list-item-title>
                     </v-list-item-content>
 
@@ -132,10 +133,14 @@ export default {
       this.infoPublicacao = response.data[0]
       this.linkhref = "https://www.scimagojr.com/journalsearch.php?q="+this.infoPublicacao.source_id_issn+"&amp;tip=sid&amp;exact=no"
       this.linksrc = "https://www.scimagojr.com/journal_img.php?id="+this.infoPublicacao.source_id_issn
+      
   },
   methods :{
       viewUser: function(id){
           alert(id)
+      },
+      redirectToUser: function(id){
+          window.location.href = "http://localhost:8080/user/" + id
       }
   }
   

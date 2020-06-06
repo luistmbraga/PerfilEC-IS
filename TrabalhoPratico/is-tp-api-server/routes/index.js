@@ -20,7 +20,7 @@ router.get('/users/:userid', function(req, res, next) {
 /* GET publication information */
 router.get('/publicacoes/:idPublicacao', function(req, res, next) {
   ISORCID.getPublicacao(req.params.idPublicacao)
-  .then(dados => {console.log(dados); res.jsonp(dados)})
+  .then(dados => res.jsonp(dados))
   .catch(erro => res.status(500).jsonp(erro))
 })
 

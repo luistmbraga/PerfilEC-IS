@@ -10,7 +10,7 @@ var publicacaoSchema = new Schema({
   wos : {type: String},
   local_de_publicacao : {type: String},
   ano : {type: Number},
-  autores :  [String],
+  autores :  {type: Array},
   numero_citacoes : {type: Number},
   issn : {type: String},
   souce_id_issn : {type: String},
