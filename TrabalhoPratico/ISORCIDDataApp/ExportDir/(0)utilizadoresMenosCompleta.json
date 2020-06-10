@@ -1,0 +1,3360 @@
+[{
+	"_id": "0000-0003-1174-1966",
+	"nome": "João Miguel Lobo Fernandes",
+	"publicacoes": [
+		{
+			"id": "85006351771",
+			"titulo": "Evolution in the number of authors of computer science publications",
+			"ano": "2017"
+		},
+		{
+			"id": "85013756304",
+			"titulo": "Foreword of the thematic track quality aspects in agile methods",
+			"ano": "2017"
+		},
+		{
+			"id": "85030864953",
+			"titulo": "Improving visibility using RFID – the case of a company in the automotive sector",
+			"ano": "2017"
+		},
+		{
+			"id": "85025444508",
+			"titulo": "Industry-academia collaborations in software engineering",
+			"ano": "2017"
+		},
+		{
+			"id": "84975106767",
+			"titulo": "Promoting entrepreneurship among informatics engineering students: insights from a case study",
+			"ano": "2017"
+		},
+		{
+			"id": "85020729509",
+			"titulo": "Quantity versus impact of software engineering papers: a quantitative study",
+			"ano": "2017"
+		},
+		{
+			"id": "84952836907",
+			"titulo": "Highly-cited papers in software engineering: The top-100",
+			"ano": "2016"
+		},
+		{
+			"id": "84982239375",
+			"titulo": "Quality attributes for mobile applications",
+			"ano": "2016"
+		},
+		{
+			"id": "84978224440",
+			"titulo": "Using scrum together with UML models: A collaborative university-industry R&amp;D software project",
+			"ano": "2016"
+		},
+		{
+			"id": "10.1007/978-3-319-30957-6_15",
+			"titulo": "iFloW: An integrated logistics software system for inbound supply chain traceability",
+			"ano": "2016"
+		},
+		{
+			"id": "84947087310",
+			"titulo": "Comparing AHP and ELECTRE i for prioritizing software requirements",
+			"ano": "2015"
+		},
+		{
+			"id": "84930260440",
+			"titulo": "Cyber-physical systems design: transition from functional to architectural models",
+			"ano": "2015"
+		},
+		{
+			"id": "84937395190",
+			"titulo": "Preface",
+			"ano": "2015"
+		},
+		{
+			"id": "84955152511",
+			"titulo": "Requirements in Engineering Projects",
+			"ano": "2015"
+		},
+		{
+			"id": "84939873560",
+			"titulo": "Authorship trends in software engineering",
+			"ano": "2014"
+		},
+		{
+			"id": "84872226409",
+			"titulo": "A transformation of business process models into software-executable models using MDA",
+			"ano": "2013"
+		},
+		{
+			"id": "84888406467",
+			"titulo": "Assisting data warehousing populating processes design through modelling using coloured petri nets",
+			"ano": "2013"
+		},
+		{
+			"id": "84886096762",
+			"titulo": "Enriching MATLAB with aspect-oriented features for developing embedded systems",
+			"ano": "2013"
+		},
+		{
+			"id": "84883425378",
+			"titulo": "Guidelines for modelling reactive systems with coloured Petri nets",
+			"ano": "2013"
+		}
+	]
+},
+{
+	"_id": "0000-0002-5566-845X",
+	"nome": "José Manuel Vasconcelos Valério Carvalho",
+	"publicacoes": [
+		{
+			"id": "85032883947",
+			"titulo": "A comparative study of the arcflow model and the one-cut model for one-dimensional cutting stock problems",
+			"ano": "2018"
+		},
+		{
+			"id": "85042371857",
+			"titulo": "Column Generation Based Approaches for Combined Routing and Scheduling",
+			"ano": "2018"
+		},
+		{
+			"id": "85042378458",
+			"titulo": "Column generation based primal heuristics for routing and loading problems",
+			"ano": "2018"
+		},
+		{
+			"id": "85042547024",
+			"titulo": "Models and advanced optimization algorithms for the integrated management of logistics operations",
+			"ano": "2018"
+		},
+		{
+			"id": "85041099479",
+			"titulo": "Variable neighborhood search algorithms for the vehicle routing problem with two-dimensional loading constraints and mixed linehauls and backhauls",
+			"ano": "2018"
+		},
+		{
+			"id": "85017476709",
+			"titulo": "Variable neighborhood search algorithms for pickup and delivery problems with loading constraints",
+			"ano": "2017"
+		}
+	]
+},
+{
+	"_id": "0000-0002-3515-0135",
+	"nome": "Maria Madalena Teixeira Araújo",
+	"publicacoes": [
+		{
+			"id": "85042213538",
+			"titulo": "The roles of a Programme and Project Management Office to support collaborative university–industry R&amp;D",
+			"ano": "2020"
+		},
+		{
+			"id": "85062848399",
+			"titulo": "An extension of the improving and embedding project management practice framework: Case study analysis",
+			"ano": "2019"
+		},
+		{
+			"id": "85063491162",
+			"titulo": "Energy End-Use Flexibility of the Next Generation of Decision-Makers in a Smart Grid Setting: An Exploratory Study",
+			"ano": "2019"
+		},
+		{
+			"id": "85071483286",
+			"titulo": "From Program Strategic Planning to Program Initiation: Lessons learned from a collaborative University-Industry RD case study",
+			"ano": "2019"
+		},
+		{
+			"id": "85062883346",
+			"titulo": "Improving and embedding project management practice: Generic or context dependent?",
+			"ano": "2019"
+		},
+		{
+			"id": "85064228440",
+			"titulo": "Mining co-operatives: A model to establish a network for sustainability",
+			"ano": "2019"
+		},
+		{
+			"id": "85084321672",
+			"titulo": "Operational risk categorization in project-based organizations: A theoretical perspective from a project portfolio risk lens",
+			"ano": "2019"
+		},
+		{
+			"id": "85057160364",
+			"titulo": "Placing hubs in CO<inf>2</inf> pipelines: An application to industrial co<inf>2</inf> emissions in the Iberian Peninsula",
+			"ano": "2019"
+		},
+		{
+			"id": "85048560243",
+			"titulo": "Risk response strategies for collaborative university-industry R&amp;D funded programs",
+			"ano": "2019"
+		},
+		{
+			"id": "85063472322",
+			"titulo": "Sustainability Assessment of High Voltage Transmission Lines",
+			"ano": "2019"
+		},
+		{
+			"id": "85078948022",
+			"titulo": "Sustainable operations management for industry 4.0 and its social return",
+			"ano": "2019"
+		},
+		{
+			"id": "85052513603",
+			"titulo": "A Conceptual Social Media Tool for Supporting Collaborative University-Industry RD Programs",
+			"ano": "2018"
+		},
+		{
+			"id": "85056542682",
+			"titulo": "Awareness and attitudes towards demand response programs- A pilot study",
+			"ano": "2018"
+		},
+		{
+			"id": "85047335380",
+			"titulo": "Better late than never, but never late is better: Risk assessment of nuclear power construction projects",
+			"ano": "2018"
+		},
+		{
+			"id": "85042089065",
+			"titulo": "Modelling perception and attitudes towards renewable energy technologies",
+			"ano": "2018"
+		},
+		{
+			"id": "85047512391",
+			"titulo": "Planning benefits realization in a collaborative university-industry R&amp;D funded program",
+			"ano": "2018"
+		},
+		{
+			"id": "85045234038",
+			"titulo": "Project change request: A proposal for managing change in industrialization projects",
+			"ano": "2018"
+		},
+		{
+			"id": "85061972829",
+			"titulo": "Project management practices for collaborative university-industry R&amp;D: A hybrid approach",
+			"ano": "2018"
+		},
+		{
+			"id": "85054863292",
+			"titulo": "Sustainability awareness in Brazilian mining corporations: the case of Paraíba state",
+			"ano": "2018"
+		},
+		{
+			"id": "85047568021",
+			"titulo": "Usefullness of project management practices in industrialization projects - A case study",
+			"ano": "2018"
+		},
+		{
+			"id": "85040245960",
+			"titulo": "A Method for Measuring the Success of Collaborative University-Industry R&amp;D Funded Contracts",
+			"ano": "2017"
+		},
+		{
+			"id": "85019898446",
+			"titulo": "A methodology for the identification of strategic technological competences: An application in the sheet metal equipment industry",
+			"ano": "2017"
+		},
+		{
+			"id": "85030841659",
+			"titulo": "Mining cooperatives in Brazil: an overview",
+			"ano": "2017"
+		},
+		{
+			"id": "85028284932",
+			"titulo": "Project portfolio selection using a D.E.A. approach",
+			"ano": "2017"
+		},
+		{
+			"id": "WOS:000444802100034",
+			"titulo": "SOCIAL AND ENVIRONMENTAL CONCERNS IN BRAZILIAN MINING CORPORATIONS",
+			"ano": "2017"
+		},
+		{
+			"id": "85017261186",
+			"titulo": "Scenarios for the future Brazilian power sector based on a multi-criteria assessment",
+			"ano": "2017"
+		},
+		{
+			"id": "85030838875",
+			"titulo": "Towards Industry 4.0: an overview of European strategic roadmaps",
+			"ano": "2017"
+		},
+		{
+			"id": "85040236265",
+			"titulo": "Towards the development of a methodology for managing industrialization projects",
+			"ano": "2017"
+		},
+		{
+			"id": "84995814257",
+			"titulo": "A methodology to incorporate risk and uncertainty in electricity power planning",
+			"ano": "2016"
+		},
+		{
+			"id": "85047518642",
+			"titulo": "A quantitative study to assess a program and project management approach for collaborative university-industry R &amp; D Funded Contracts",
+			"ano": "2016"
+		},
+		{
+			"id": "84982313517",
+			"titulo": "Energy and environment: bringing together engineering and economics",
+			"ano": "2016"
+		},
+		{
+			"id": "84986328622",
+			"titulo": "Group support systems features and their contribution to technology strategy decision-making: A review and analysis",
+			"ano": "2016"
+		},
+		{
+			"id": "84986275966",
+			"titulo": "Improving and embedding project management practices in organizations—the human perspective",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700018",
+			"titulo": "LOW-CARBON SCENARIOS FOR THE BRAZILIAN POWER SYSTEM",
+			"ano": "2016"
+		},
+		{
+			"id": "84983311752",
+			"titulo": "Least-cost 100% renewable electricity scenarios",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700015",
+			"titulo": "METHODOLOGY FOR HUBS PLACEMENT ANALYSIS: AN APPLICATION TO PORTUGUESE INDUSTRIAL CO2 EMISSIONS",
+			"ano": "2016"
+		},
+		{
+			"id": "84986268677",
+			"titulo": "Organizational learning and knowledge management—insights from industrial managers",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700040",
+			"titulo": "PROJECT MANAGEMENT UNDER UNCERTAINTY: SOLUTION METHODS REVISITED",
+			"ano": "2016"
+		},
+		{
+			"id": "85006944703",
+			"titulo": "Perceptions of Different Stakeholders on Managing Collaborative University-Industry R&amp;D Funded Contracts",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700008",
+			"titulo": "REQUIREMENTS FOR A PROJECT EVALUATION AND SELECTION METHODOLOGY",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700014",
+			"titulo": "SUSTAINABILITY IN SMALL-MEDIUM-ARTISANAL MINING ENTERPRISES IN BRAZIL",
+			"ano": "2016"
+		},
+		{
+			"id": "WOS:000391277700021",
+			"titulo": "UNDERSTANDING COST ESCALATION IN NUCLEAR REACTOR CONSTRUCTION PROJECTS",
+			"ano": "2016"
+		},
+		{
+			"id": "84962850903",
+			"titulo": "A Program and Project Management Approach for Collaborative University-industry R&amp;D Funded Contracts",
+			"ano": "2015"
+		},
+		{
+			"id": "84929505369",
+			"titulo": "Improving and embedding project management practice in organisations - A qualitative study",
+			"ano": "2015"
+		},
+		{
+			"id": "84951913802",
+			"titulo": "Multicriteria scenario analysis on electricity production",
+			"ano": "2015"
+		},
+		{
+			"id": "84976406974",
+			"titulo": "Project management under uncertainty: A study on solution methods",
+			"ano": "2015"
+		},
+		{
+			"id": "84949983655",
+			"titulo": "Research and development project assessment and social impact",
+			"ano": "2015"
+		},
+		{
+			"id": "84994168654",
+			"titulo": "Towards a classification of technology strategy frameworks",
+			"ano": "2015"
+		},
+		{
+			"id": "84904409374",
+			"titulo": "Developing a framework for embedding useful project management improvement initiatives in organizations",
+			"ano": "2014"
+		},
+		{
+			"id": "WOS:000360404800107",
+			"titulo": "Perceptions of Different Stakeholders on Improving and Embedding Project Management Practice in Organisations",
+			"ano": "2014"
+		},
+		{
+			"id": "84901508422",
+			"titulo": "Public opinion on renewable energy technologies in Portugal",
+			"ano": "2014"
+		},
+		{
+			"id": "84875812510",
+			"titulo": "Evaluating future scenarios for the power generation sector using a Multi-Criteria Decision Analysis (MCDA) tool: The Portuguese case",
+			"ano": "2013"
+		},
+		{
+			"id": "84903185691",
+			"titulo": "Identifying useful project management practices: A mixed methodology approach",
+			"ano": "2013"
+		},
+		{
+			"id": "84883080268",
+			"titulo": "Sustainability assessment of electricity production using a logic models approach",
+			"ano": "2013"
+		},
+		{
+			"id": "84857186583",
+			"titulo": "A methodology to evaluate complex manufacturing systems through discrete-event simulation models",
+			"ano": "2012"
+		},
+		{
+			"id": "84896526112",
+			"titulo": "A multi-criteria decision analysis tool to support electricity planning",
+			"ano": "2012"
+		},
+		{
+			"id": "84863300308",
+			"titulo": "Analysis of the Influence of the Production Sequence in an Automobile Assembly Line, Modeled as a Network of Closed-loops",
+			"ano": "2012"
+		},
+		{
+			"id": "84867971952",
+			"titulo": "Convergence of judgments in technological innovation audit: A case study application in a sheet metal processing equipment manufacturer",
+			"ano": "2012"
+		},
+		{
+			"id": "84863333837",
+			"titulo": "Social Return of R&D Investments in Manufacturing Sector: Some Insights from an Exploratory Case Study",
+			"ano": "2012"
+		},
+		{
+			"id": "84897667949",
+			"titulo": "The impact of fuel and co2 prices on electricity power plans",
+			"ano": "2012"
+		},
+		{
+			"id": "84898528528",
+			"titulo": "Knowledge management and the organisational learning: Towards a framework definition",
+			"ano": "2011"
+		},
+		{
+			"id": "81855194256",
+			"titulo": "The inclusion of social aspects in power planning",
+			"ano": "2011"
+		}
+	]
+},
+{
+	"_id": "0000-0003-2715-4037",
+	"nome": "Estela Guerreiro Silva Bicho Erlhagen",
+	"publicacoes": [
+		{
+			"id": "85082955022",
+			"titulo": "Differential width discrimination task for active and passive tactile discrimination in humans",
+			"ano": "2020"
+		},
+		{
+			"id": "85077558688",
+			"titulo": "FIBR3DEmul—an open-access simulation solution for 3D printing processes of FDM machines with 3+ actuated axes",
+			"ano": "2020"
+		},
+		{
+			"id": "10.1007/978-3-030-41486-3_41",
+			"titulo": "Human-Centered Approach for the Design of a Collaborative Robotics Workstation",
+			"ano": "2020"
+		},
+		{
+			"id": "85078502643",
+			"titulo": "Parkinson's Disease and Fabry Disease: Clinical, Biochemical and Neuroimaging Analysis of Three Pedigrees",
+			"ano": "2020"
+		},
+		{
+			"id": "85082142874",
+			"titulo": "Towards Endowing Collaborative Robots with Fast Learning for Minimizing Tutors’ Demonstrations: What and When to Do?",
+			"ano": "2020"
+		},
+		{
+			"id": "85045249504",
+			"titulo": "Attractor dynamics approach to joint transportation by autonomous robots: theory, implementation and validation on the factory floor",
+			"ano": "2019"
+		},
+		{
+			"id": "85062536194",
+			"titulo": "Artificial Neural Networks Classification of Patients with Parkinsonism based on Gait",
+			"ano": "2019"
+		},
+		{
+			"id": "85066802676",
+			"titulo": "Gait stride-to-stride variability and foot clearance pattern analysis in Idiopathic Parkinson's Disease and Vascular Parkinsonism",
+			"ano": "2019"
+		},
+		{
+			"id": "85072855862",
+			"titulo": "Neural Field Model for Measuring and Reproducing Time Intervals",
+			"ano": "2019"
+		},
+		{
+			"id": "85069971068",
+			"titulo": "Numerical analysis of the shape of bump solutions in a neuronal model of working memory",
+			"ano": "2019"
+		},
+		{
+			"id": "85033224212",
+			"titulo": "Position-based kinematics for 7-DoF serial manipulators with global configuration control, joint limit and singularity avoidance",
+			"ano": "2018"
+		},
+		{
+			"id": "85050365965",
+			"titulo": "Towards temporal cognition for robots: A neurodynamics approach",
+			"ano": "2018"
+		},
+		{
+			"id": "84988458201",
+			"titulo": "A simple control approach for stereotactic neurosurgery using a robotic manipulator",
+			"ano": "2017"
+		},
+		{
+			"id": "85026868131",
+			"titulo": "A software framework for the implementation of Dynamic Neural Field control architectures for human-robot interaction",
+			"ano": "2017"
+		},
+		{
+			"id": "85044349774",
+			"titulo": "Difcor analyzing behavior and adaptability in obstacle crossing in arkinson’s disease",
+			"ano": "2017"
+		}
+	]
+},
+{
+	"_id": "0000-0002-3549-0754",
+	"nome": "Paulo Jorge Freitas de Oliveira Novais",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9421-9123",
+	"nome": "Pedro Miguel Ferreira Martins Arezes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8967-118X",
+	"nome": "Adriano Jorge Cardoso Moreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3626-2569",
+	"nome": "Ricardo Jorge Silvério Magalhães Machado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1501-2752",
+	"nome": "Alexandre Júlio Teixeira Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6438-1223",
+	"nome": "António Fernando Macedo Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9972-7474",
+	"nome": "António Ismael Freitas Vaz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7223-1532",
+	"nome": "João Álvaro Brandão Soares Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6018-7346",
+	"nome": "Alberto José Gonçalves Carvalho Proença",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3378-6866",
+	"nome": "Goran Putnik",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6703-3278",
+	"nome": "Jaime Francisco Cruz Fonseca",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9195-1239",
+	"nome": "João Luiz Afonso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9724-0312",
+	"nome": "José Dinis de Araújo Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4121-6169",
+	"nome": "José Manuel Ferreira Machado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3287-3995",
+	"nome": "João Luís Marques Pereira Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5441-3316",
+	"nome": "Manuel Filipe Vieira Torres Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7991-2090",
+	"nome": "Paulo Alexandre Ribeiro Cortez",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3249-6229",
+	"nome": "Maribel Yasmina Campos Alves Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2157-8891",
+	"nome": "Orlando Manuel Oliveira Belo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3208-0207",
+	"nome": "Pedro Manuel Rangel Santos Henriques",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4438-6713",
+	"nome": "Filomena Maria Rocha Menezes Oliveira Soares",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5389-3285",
+	"nome": "Henrique Manuel Dinis Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8035-4703",
+	"nome": "Isabel Maria Pinto Ramos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4632-9664",
+	"nome": "Carlos Manuel José Alves Serôdio",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8316-6927",
+	"nome": "Adriano José Conceição Tavares",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1851-4339",
+	"nome": "Filipe Pereira Pinto Cunha Alvelos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9695-6573",
+	"nome": "Júlio Manuel Sousa Barreiros Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1042-4152",
+	"nome": "Paulo José Guimarães Garrido",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0879-1084",
+	"nome": "Paulo Alexandre Costa Araújo Sampaio",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6735-7122",
+	"nome": "Paulo Manuel Martins Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7464-3944",
+	"nome": "Senhorinha Fátima Capela Fortunas Teixeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4303-3908",
+	"nome": "João Eduardo Quintela Alves Sousa Varajão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4426-0002",
+	"nome": "Luis Gonzaga Mendes Magalhães",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4772-4404",
+	"nome": "Lino António Antunes Fernandes Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3547-2131",
+	"nome": "Rui João Peixoto José",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0885-4054",
+	"nome": "Guilherme Augusto Borges Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7057-6775",
+	"nome": "Maria Sameiro Faria Brandão Soares Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4017-1184",
+	"nome": "Cláudio Manuel Martins Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3712-4803",
+	"nome": "Paula Fernanda Varandas Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3525-0619",
+	"nome": "Ana Alice Rodrigues Pereira Baptista",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1991-9418",
+	"nome": "Ana Cristina Silva Braga",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2926-4187",
+	"nome": "Anabela Carvalho Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8679-2886",
+	"nome": "Ana Maria Alves Coutinho Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9802-0074",
+	"nome": "Anabela Pereira Tereso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6457-0756",
+	"nome": "António Carlos da Silva Abelha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3725-5771",
+	"nome": "Celina Maria Godinho Silva Pinto Leão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4130-417X",
+	"nome": "Hélia Marília Goulart Ferreira de Oliveira Guerra",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9426-3834",
+	"nome": "Luís Alfredo Martins Amaral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8958-449X",
+	"nome": "Isabel Silva Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5589-0501",
+	"nome": "Isabel Alexandra Costa Pinho Espírito Santo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1512-1126",
+	"nome": "João Luís Ferreira Sobral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3492-1786",
+	"nome": "João Miguel Clemente Sena Esteves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5892-1289",
+	"nome": "Joaquim Melo Henriques Macedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5766-8402",
+	"nome": "Jorge Gustavo Pereira Bastos Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8978-8804",
+	"nome": "Helena Cristina Coutinho Duarte Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6267-708X",
+	"nome": "Jorge Miguel de Oliveira Sá e Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6033-0760",
+	"nome": "José António Vasconcelos Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9954-9746",
+	"nome": "Jorge Miguel Nunes Santos Cabral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4289-4770",
+	"nome": "José Gabriel Oliveira Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0281-2339",
+	"nome": "Luis Miguel Pacheco Mendes Gomes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3822-2763",
+	"nome": "José Filipe Sá Rodrigues Soares",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0722-2031",
+	"nome": "José João Antunes Guimarães Dias de Almeida",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2835-4789",
+	"nome": "Delfina Fernanda Moreira Garcês Sá Soares",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1991-4892",
+	"nome": "Luís Miguel Silva Dias",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7796-644X",
+	"nome": "César Analide de Freitas e Silva da Costa Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0691-1377",
+	"nome": "António Luís Duarte Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2787-4475",
+	"nome": "Manuel João Sepúlveda Mesquita Freitas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9135-6245",
+	"nome": "Bruno Alexandre Fernandes Dias",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6172-5855",
+	"nome": "Maria João Mesquita Rodrigues Cunha Nicolau Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2299-1859",
+	"nome": "Maria Leonilde Rocha Varela",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9499-6811",
+	"nome": "Maria Teresa Torres Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2139-8073",
+	"nome": "Maria Solange Pires Ferreira Rito Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9348-8038",
+	"nome": "Nelson Bruno Martins Marques da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0874-8593",
+	"nome": "Paula Machado de Sousa Carneiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3882-2491",
+	"nome": "Paulo Sérgio Lima Pereira Afonso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5193-0513",
+	"nome": "Pedro Nuno Miranda de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3538-9282",
+	"nome": "Pedro Miguel Gonzalez Abreu Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6707-6806",
+	"nome": "Pedro Sérgio Oliveira Branco",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0445-7935",
+	"nome": "Pedro Miguel Mestre Alves da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7607-555X",
+	"nome": "Rui Manuel Dinis Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5321-6863",
+	"nome": "Rui Manuel Ribeiro de Castro Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3631-6440",
+	"nome": "Sérgio Dinis Teixeira Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5028-0974",
+	"nome": "Sérgio Paulo Carvalho Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4682-1790",
+	"nome": "Nuno Octávio Garcia Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1819-7051",
+	"nome": "Victor Manuel Rodrigues Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0575-981X",
+	"nome": "Filipe Miguel Lopes Meneses",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4580-7484",
+	"nome": "Sandro Emanuel Salgado Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7814-1653",
+	"nome": "Miguel Angel Guevara Lopez",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3957-2121",
+	"nome": "Hugo Daniel Abreu Peixoto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8863-0351",
+	"nome": "José Carlos Ferreira Maia Neves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1046-5074",
+	"nome": "Tiago José Martins Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6318-9021",
+	"nome": "Diogo Elói Trindade de Aguiam",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7708-3842",
+	"nome": "Carlos Alberto Calaza Cabanas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6170-4912",
+	"nome": "Ângelo Gonçalo Araújo Silva Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6640-8955",
+	"nome": "Vitor Duarte Fernandes Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1406-4905",
+	"nome": "José Pedro Teixeira Domingues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6358-8951",
+	"nome": "João Carlos Azevedo Gaspar",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8257-0143",
+	"nome": "Pedro José de Melo Teixeira Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2181-6837",
+	"nome": "Carlos Filipe da Silva Portela",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2470-0795",
+	"nome": "Pedro Nuno Ferreira Pinto Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5645-3127",
+	"nome": "Sílvio Carmo Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4370-883X",
+	"nome": "António Alberto Caetano Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7991-0132",
+	"nome": "Rui Manuel Sá Pereira Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3049-5852",
+	"nome": "Armando Brito Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3680-572X",
+	"nome": "António José Borba Ramires Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8523-5287",
+	"nome": "Carlos Manuel Gregório Santos Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5399-5158",
+	"nome": "Carlos Alberto Baptista Sousa Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3694-820X",
+	"nome": "António Joaquim André Esteves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9957-4378",
+	"nome": "Cristina Maria Santos Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2912-0658",
+	"nome": "Eusébio Manuel Pinto Nunes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6423-9449",
+	"nome": "Filipa Marina Lisardo Dionísio Vieira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8439-8172",
+	"nome": "Miguel Francisco de Almeida Pereira da Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2316-2793",
+	"nome": "Rui Manuel Alves da Silva e Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8596-4911",
+	"nome": "António Maria Vieira Paisana",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9951-6378",
+	"nome": "Maria Isabel Calapez Cabrita Leal Seruca",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7540-8540",
+	"nome": "Fernando Carlos Cabrita Romero",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5764-7815",
+	"nome": "Francisco António Carneiro Pacheco de Andrade",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4274-8845",
+	"nome": "Maria João da Silva Costa Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8456-7773",
+	"nome": "Henrique Agostinho de Oliveira Moiteiro Vicente",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6419-7605",
+	"nome": "José Francisco Pereira Moreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8574-1574",
+	"nome": "José Carlos Leite Ramalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8510-5431",
+	"nome": "José Luís Mota Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8465-3679",
+	"nome": "José Manuel Henriques Telhada",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0483-1341",
+	"nome": "Manuel Carlos Barbosa Figueiredo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1313-2523",
+	"nome": "Manuel José Lopes Nunes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4235-9700",
+	"nome": "Miguel António Sousa Abrunhosa Brito",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7924-0060",
+	"nome": "Paulo Francisco Silva Cardoso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5881-8567",
+	"nome": "Jorge Manuel Ferreira Almeida Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5218-3182",
+	"nome": "Paulo Jorge Figueiredo Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8449-0526",
+	"nome": "Rui Pedro Figueiredo Marques",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6662-0806",
+	"nome": "João Carlos Amaro Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4095-3431",
+	"nome": "Jorge Vaz Oliveira Sá",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3317-8238",
+	"nome": "José Araújo Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7444-7284",
+	"nome": "João Carlos Aparício Paulo Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3883-1160",
+	"nome": "António Miguel Ribeiro dos Santos Rosado da Cruz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6323-0071",
+	"nome": "Maria João Tinoco Varanda Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9602-0692",
+	"nome": "Teresa Maria Gaspar dos Santos Guarda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4884-0984",
+	"nome": "Nuno Miguel Feixa Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8960-8498",
+	"nome": "Sérgio Adriano Fernandes Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3803-2043",
+	"nome": "Ana Isabel Pinheiro Nunes Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4658-5844",
+	"nome": "Vitor Hugo Mendes Costa Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4982-4444",
+	"nome": "Vitor Júlio da Silva e Sá",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8773-3757",
+	"nome": "Rui Pedro Labrincha Azevedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8564-4582",
+	"nome": "Anabela Mesquita Teixeira Sarmento",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0506-4284",
+	"nome": "António Rui Trigo Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7342-1282",
+	"nome": "Cândida Elisa Pereira da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0187-1281",
+	"nome": "Carla Alexandra Soares Geraldes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4483-8396",
+	"nome": "Carmen Maria da Silva Maciel Andrade",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3672-7119",
+	"nome": "Daniela Carneiro da Cruz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4988-4105",
+	"nome": "Isabel Maria de Freitas Soares Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2275-173X",
+	"nome": "Isabel Cristina Assis Andrade Moura",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5508-043X",
+	"nome": "Duarte Filipe Oliveira Duque",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9638-7593",
+	"nome": "José Eduardo Moreira Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6175-6934",
+	"nome": "Matilde Alexandra Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6426-9939",
+	"nome": "Maria Estrela Ribeiro Ferreira da Cruz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1138-1534",
+	"nome": "Ana Sofia Pinho Colim",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7448-291X",
+	"nome": "Ângela Maria Esteves da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7910-2418",
+	"nome": "António Manuel Pereira da Silva Amaral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4563-7414",
+	"nome": "Cristiano Gonçalves Pendão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1558-7230",
+	"nome": "Flora José da Rocha Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5614-3516",
+	"nome": "Isabel Maria Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3061-0232",
+	"nome": "Isabel Maria Pereira Leite de Freitas Loureiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9270-2226",
+	"nome": "Francisco José Monteiro Duarte",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7884-5957",
+	"nome": "José Alberto Lencastre Freitas Borges Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9475-9020",
+	"nome": "Agostinho Gil Teixeira Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4516-0588",
+	"nome": "Pedro Miguel Fernandes Freitas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7440-8787",
+	"nome": "Susana Raquel Pinto da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9394-1357",
+	"nome": "Nelson José de Oliveira Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4071-9015",
+	"nome": "Tiago Manuel Ribeiro Gomes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1087-7941",
+	"nome": "Telmo Miguel Pires Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0041-8939",
+	"nome": "Sara Maria da Cruz Maia de Oliveira Paiva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9431-8826",
+	"nome": "Vaibhav Shah",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5845-4086",
+	"nome": "Teresa Susana Mendes Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1804-9406",
+	"nome": "Pedro Miguel do Vale Malheiro Ramos Coutinho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8599-1605",
+	"nome": "Ricardo Manuel Soares Anacleto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6961-2660",
+	"nome": "Alberto Manuel Brandão Simões",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6650-0388",
+	"nome": "Davide Rua Carneiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2862-2883",
+	"nome": "Delfina Gabriela Garrido Ramos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3608-0391",
+	"nome": "Manuel Fernando da Silva Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1494-4726",
+	"nome": "Bruno Miguel Azevedo Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0146-657X",
+	"nome": "Paula Alexandra Fernandes Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8318-085X",
+	"nome": "Vitor Manuel Gomes Correia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0722-9361",
+	"nome": "Edite Manuela Graça Pinto Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1988-7521",
+	"nome": "Carlos Alberto Caridade Monteiro Couto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2715-9826",
+	"nome": "Aldora Gabriela Gomes Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1906-9684",
+	"nome": "Abdur Rais",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6445-5475",
+	"nome": "Cátia Filipa Veiga Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4775-5713",
+	"nome": "Ana Cristina Magalhães Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5436-0082",
+	"nome": "Carlos Eduardo Rodrigues Teixeira Salgado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3620-2830",
+	"nome": "Cristiano de Jesus",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2309-4084",
+	"nome": "Clara Maria Gil Ferreira Fernandes Pereira Coutinho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2113-3606",
+	"nome": "Delfim Duarte Rolo Pedrosa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8313-7023",
+	"nome": "Dalila Alves Durães",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9872-7117",
+	"nome": "Fábio André Souto da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3439-8235",
+	"nome": "Filipe Manuel Serra Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5128-5753",
+	"nome": "Emanuel Augusto Freitas de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4234-5640",
+	"nome": "Francisco António Coelho e Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6824-5221",
+	"nome": "Joaquim Agostinho Barbosa Tinoco",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3562-0117",
+	"nome": "João Ricardo Martins Ramos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5458-3390",
+	"nome": "Júlio Miguel Marques Duarte",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7007-9277",
+	"nome": "Jordi Llobet Sixto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1708-8881",
+	"nome": "Luís Filipe Castro Freitas Louro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8124-2826",
+	"nome": "João Manuel Peixoto Faria",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0826-4970",
+	"nome": "Marcelo Nogueira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8688-0966",
+	"nome": "Oscar Sílvio Marques de Almeida Gama",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3561-331X",
+	"nome": "Nuno Alexandre Castro Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9923-586X",
+	"nome": "Diogo Alberto Rocha Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3512-931X",
+	"nome": "Mariana Curado Malta",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3404-9657",
+	"nome": "Pedro Miguel Cardoso Gago",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9139-2801",
+	"nome": "José Rodrigues Garcia Ribas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3877-0946",
+	"nome": "Rosana Maria Alves Dias",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6319-7782",
+	"nome": "Helena Sofia Ferreira Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2110-914X",
+	"nome": "André Martins Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9757-6687",
+	"nome": "Eliana oliveira da Costa e Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1059-8902",
+	"nome": "António Amaro Costa Vieira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0011-6030",
+	"nome": "Carlos Filipe Machado da Silva Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8783-9412",
+	"nome": "Carina Sofia Marinho de Andrade",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6912-2853",
+	"nome": "Filipa Tinoco Ferraz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8769-4257",
+	"nome": "Filipe Manuel Carvalho Rodrigues Bravo Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7518-1243",
+	"nome": "Ana Cláudia Ribeiro Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1037-6434",
+	"nome": "Bruno Daniel Mestre Viana Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0691-8966",
+	"nome": "Hugo Miguel Teixeira Lopes Guimarães",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9850-4666",
+	"nome": "Hugo Veloso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1561-2897",
+	"nome": "Bruno Filipe Martins Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0933-1995",
+	"nome": "João Nuno Costa Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1418-910X",
+	"nome": "Luís Manuel Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4263-8726",
+	"nome": "João Rui Magalhães Velho da Cunha Galvão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9997-0722",
+	"nome": "Mário Manuel Silva Leite",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9710-847X",
+	"nome": "Marisa Araújo Esteves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9006-6139",
+	"nome": "Vitor Alberto Teixeira da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6969-6806",
+	"nome": "Bruno Alexandre Taraio dos Santos Antunes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7233-3192",
+	"nome": "Bruno Samuel Ferreira Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7227-5930",
+	"nome": "Wellington Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6998-7139",
+	"nome": "Joana Catarina Fernandes Vieira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3077-6662",
+	"nome": "Ana Luisa Alves de Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5203-5964",
+	"nome": "Bruna Silva Ramos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4918-5187",
+	"nome": "Bruno Silvestre Medeiros",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3896-6348",
+	"nome": "Diana Isabel de Araújo Mesquita",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6559-9198",
+	"nome": "Hector Ignacio Castellucci",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2190-4319",
+	"nome": "Mariana Reimão Queiroga Valério de Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4711-2849",
+	"nome": "João Oliveira da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5712-9954",
+	"nome": "Hélio Cristiano Gomes Alves de Castro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6762-848X",
+	"nome": "Maria Laura Casaleiro Lobo da Costa Maia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0163-465X",
+	"nome": "Felipe Mendes da Cruz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5217-6110",
+	"nome": "Ricardo Giuliani Martini",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4765-3856",
+	"nome": "Sara Tatiana de Almeida Bragança de Miranda e Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4030-2367",
+	"nome": "Adriana Freires de Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8997-6231",
+	"nome": "Ana Cecília Sousa Rocha Coimbra",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5311-9759",
+	"nome": "Ana Isabel Carneiro Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4004-9901",
+	"nome": "Ana Rita Oliveira Antunes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2988-196X",
+	"nome": "Ana Regina Coelho de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8718-0918",
+	"nome": "Ana Paula Pinto da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1557-654X",
+	"nome": "Ana Carolina Freitas Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7172-4557",
+	"nome": "André Borges Guimarães Serra e Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9995-5912",
+	"nome": "Ankit Rameshbhai Patel",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0669-8361",
+	"nome": "Agostinho Loureiro Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3155-9603",
+	"nome": "Ariana Sofia Barroso de Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9460-7553",
+	"nome": "André Mendes de Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5457-3793",
+	"nome": "Bruno Augusto Ferreira Martinho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7075-3364",
+	"nome": "António José Linhares da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9186-6544",
+	"nome": "Tatiana Amaral Sorrentino",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7501-7515",
+	"nome": "Afonso Manuel Macedo dos Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1616-2234",
+	"nome": "Bruno Miguel Gomes Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3206-6832",
+	"nome": "Camilo Andrés Micán Rincón",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6498-0464 ",
+	"nome": "Catarina da Conceição Pereira Teixeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1626-2908",
+	"nome": "Catarina Cubo da Fonte",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6144-0980",
+	"nome": "Celestino Alexandre de Almeida Pereira Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8353-6406",
+	"nome": "Claudio Ruy Portela de Vasconcelos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9488-5003",
+	"nome": "Carlos Daniel Araújo Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8736-7443",
+	"nome": "Cristiana Marisa Pereira Neto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7778-0912",
+	"nome": "Daniel Filipe Coelho Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5087-1662",
+	"nome": "Daniel Cerveira Furtado Malhadas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5129-7727",
+	"nome": "Cleiton José da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6793-261X",
+	"nome": "Daniela Sofia Rijo Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1348-0272",
+	"nome": "David Martins Cerdeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6366-1987",
+	"nome": "Débora Cláudia Simões Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3927-0468",
+	"nome": "Carla Cristina Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5998-7960",
+	"nome": "Eduardo Filipe Rodrigues Peixoto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5329-2022",
+	"nome": "Carlos Filipe Brito da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5581-1279",
+	"nome": "Ali Abbasi",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3859-3548",
+	"nome": "Eduardo Gil Ferraz Soares Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4981-6153",
+	"nome": "Eduardo José Bacelar Pereira Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4119-8482",
+	"nome": "Daniel José Cunha Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0363-8304",
+	"nome": "Edgar Guilherme",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2326-2153",
+	"nome": "Diana Lisandra Azevedo Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8404-9263",
+	"nome": "Eurico Esteves Moreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2221-2261",
+	"nome": "Francisco Supino Marcondes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5172-045X",
+	"nome": "Francini Abdul Hak",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5213-6474",
+	"nome": "Fernanda Bigolin",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5903-5265",
+	"nome": "Francisco Waldilon Soares da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4367-7412",
+	"nome": "Gabriela Maria Medeiros Amaral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8387-391X",
+	"nome": "Filipe Marcelo Ferreira Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1521-4904",
+	"nome": "Géremi Dranka",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3967-8981",
+	"nome": "Gianpaolo Gulletta",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8407-3255",
+	"nome": "Helena Daniela Ribeiro Torres",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4605-6961",
+	"nome": "Inês Sofia Moreira Garcia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7285-414X",
+	"nome": "Ertugrul Dogruluk",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4019-9643",
+	"nome": "Joana Monteiro Machado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5880-033X",
+	"nome": "João Pedro Borges Araújo Oliveira e Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2237-0160",
+	"nome": "Irving Marlon Reascos Paredes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8864-8121",
+	"nome": "João Pedro Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4004-705X",
+	"nome": "João Martinho Moura",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3661-3445",
+	"nome": "Jorge Manuel Almeida Brandão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2825-1672",
+	"nome": "Edoardo Sotgiu",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2228-5348",
+	"nome": "José Carlos Vieira de Sá",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4459-3250",
+	"nome": "Filipe Manuel Mota Miranda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1112-3685",
+	"nome": "Leandro Oliveira Freitas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8155-1362",
+	"nome": "Juliana Manuela Figueiredo Freitas Teixeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2039-4540 ",
+	"nome": "Luciene Sena Kapisch",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2479-885X",
+	"nome": "Júlio Dinis Lopes de Barros",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3423-2577",
+	"nome": "Luís Filipe Carvalho Machado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6623-3980",
+	"nome": "Luís André Magalhães de Barros",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3454-4615",
+	"nome": "Luís Manuel Silva Conceição",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0398-0441",
+	"nome": "José Pedro Ferreira Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5827-9129",
+	"nome": "Luís Miguel da Rocha de Matos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3306-4740",
+	"nome": "Luís Miguel Marinho Novais",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0146-6326",
+	"nome": "Luiz de Freitas Ayres",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3892-0369",
+	"nome": "Luiz Alberto Lisboa da Silva Cardoso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4770-5502",
+	"nome": "Márcia Annie Araújo Esteves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6370-9955",
+	"nome": "Marco Filipe Vieira Gomes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9300-2085",
+	"nome": "Maria Ana Medeiros",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3498-1711",
+	"nome": "Maria Florentina Queirós da Silva Abreu",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9380-7150",
+	"nome": "José Carvalho Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4414-3612",
+	"nome": "Miguel Ângelo Fernandes Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2070-7073",
+	"nome": "Mariane Cásseres de Souza",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2046-4569",
+	"nome": "Miguel Ângelo Peixoto da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6378-527X",
+	"nome": "Marta Filipa Pinto Maia de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4588-2628",
+	"nome": "Miguel Ângelo da Silva Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1050-2779",
+	"nome": "Mohamed Tanta",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6526-5670",
+	"nome": "Marangaze Joaquim Munhepe Mulhanga",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6871-9893",
+	"nome": "Morteza Dahmardeh",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8425-3501",
+	"nome": "Nuno Miguel Cerqueira da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8463-2731",
+	"nome": "Paulo Jorge Silva Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1672-421X",
+	"nome": "Nilton Hideki Takagi",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3474-9709",
+	"nome": "Paulo Sérgio Cunha Vicente",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9204-0103",
+	"nome": "Nelson Ricardo Pereira Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0260-5743",
+	"nome": "Nuno Filipe Barbosa Soares",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7143-5413",
+	"nome": "Pedro José Costa de Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6169-8778",
+	"nome": "Pedro José Silva Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6170-1626",
+	"nome": "Pedro José Gonçalves da Silva Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9220-3336",
+	"nome": "Pedro Miguel Martins de Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7849-4109",
+	"nome": "Pedro José de Araújo Pinheiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8543-550X",
+	"nome": "Ricardo João Rei Roriz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4174-4888",
+	"nome": "Reginaldo Araújo Falcão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4968-3802",
+	"nome": "Ricardo Vaz Moreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1993-5343",
+	"nome": "Ricardo Alexandre Gonçalves Carotta Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6593-4627",
+	"nome": "Roberto Carlos Sá Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9160-5923",
+	"nome": "Nuno Alberto Ribeiro da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7354-1017",
+	"nome": "Rosa Elisa Lima Vieira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8247-7253",
+	"nome": "Nuno António Lira Fernandes Faria Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9853-4507",
+	"nome": "Rosemary Fantinel",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6716-0485",
+	"nome": "Rui Miguel Serra Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9929-8705",
+	"nome": "Rui Pedro Oliveira Machado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3842-0874",
+	"nome": "Rui Daniel Ferreira Peixoto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3436-0528",
+	"nome": "Samriddhi Sarkar",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9634-3766",
+	"nome": "Sandro Ricardo da Costa Ferraz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3189-863X",
+	"nome": "Sérgio Abílio Pereira Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8098-8159",
+	"nome": "Sergio Augusto Gomes Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4888-6827",
+	"nome": "Sérgio Miguel da Silva Coelho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6260-6476",
+	"nome": "Sara Sadat Golmaryami",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3080-2488",
+	"nome": "Shailendra Singh Tanwar",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0118-2235",
+	"nome": "Sofiane Amara",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3089-571X",
+	"nome": "Simone Ribeiro Sarges",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3696-9927",
+	"nome": "Rui Pedro Mesquita Miranda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6829-4592",
+	"nome": "Sónia Marisa Ferreira Faria",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0721-8198",
+	"nome": "Tiago José da Cunha Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3276-369X",
+	"nome": "Thiago Antonio Souza",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2618-3496",
+	"nome": "Vasco António Lourenço Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7318-8257",
+	"nome": "Victor Freitas de Azeredo Barros",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3864-6264",
+	"nome": "Vasco António Pinheiro da Costa Abelha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0082-343X",
+	"nome": "Vinícius Corrêa Alves da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9916-2285",
+	"nome": "Waldir Spencer Pimenta Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9078-8396",
+	"nome": "Walter Aoiama Nagai",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9515-2397",
+	"nome": "Weronika Wojtak",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8431-0492",
+	"nome": "Zlata Putnik",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8661-9626",
+	"nome": "Vitor Manuel Sá Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6075-7185",
+	"nome": "César Manuel Ferreira Quintas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7079-7663",
+	"nome": "Zhuang Li",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5310-5314",
+	"nome": "Ana Rita Mendes Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7360-345X",
+	"nome": "Cristiano António Azevedo Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3459-0195",
+	"nome": "Eduarda Alexandra Pinto da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8469-2547",
+	"nome": "David Rodrigues Teixeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6568-8692",
+	"nome": "Isabel Cristina Alves Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7578-5672",
+	"nome": "João Filipe Freitas Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2588-4386",
+	"nome": "Francisca Leitão Gonçalves do Vale Lima",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3838-2895",
+	"nome": "João António Gonçalves de Sousa Marques de Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7135-0695",
+	"nome": "José Manuel da Silva Correia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0797-8277",
+	"nome": "José Luís Pedroso Vieira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7953-5635",
+	"nome": "Cristiano José Ribeiro Miranda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9806-6005",
+	"nome": "José Maria Cerqueira da Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1218-0980",
+	"nome": "Maria Manuel Bastos Salazar",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5372-1088",
+	"nome": "António Sérgio Antunes Branco",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9696-8734",
+	"nome": "Manuel Alexandre Monteiro Dos Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5027-2520",
+	"nome": "Miguel Ângelo da Silva Gabriel",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1091-5162",
+	"nome": "Nuno Filipe Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4982-7645",
+	"nome": "Mónica Inês Lopes de Melo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5535-1754",
+	"nome": "António Pedro Torrinha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2575-0356",
+	"nome": "Paulo Manuel Ferreira de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1272-7306",
+	"nome": "Pedro Daniel Silva Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4165-1419",
+	"nome": "Pedro Alexandre Costa Lobo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6743-7341",
+	"nome": "William Machado Emiliano",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6785-6001",
+	"nome": "Pedro Miguel Oliveira Fonseca",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3390-8528",
+	"nome": "Pedro Rui Pereira Guimarães",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0334-4784",
+	"nome": "Rui Jorge Mendes Almeida",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6219-212X",
+	"nome": "Vadym Serhiyovych Hapanchak",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0651-6756",
+	"nome": "Sofia Arriscado Terramoto Paiva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5991-1069",
+	"nome": "José Higino Gomes Correia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9164-9686",
+	"nome": "Adérito Fernandes Marcos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1227-7600",
+	"nome": "José Gerardo Vieira Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1015-5095",
+	"nome": "Carlos Alberto Batista Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0023-7203",
+	"nome": "Cristina Manuela Peixoto Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3576-8218",
+	"nome": "José Manuel Tavares Vieira Cabral",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6275-9467",
+	"nome": "José Augusto Afonso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1648-1980",
+	"nome": "Luís Filipe Botelho Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4466-1129",
+	"nome": "Luís Paulo Peixoto dos Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6134-119X",
+	"nome": "Francisco Carlos Afonso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7709-8777",
+	"nome": "Maria Manuela Cruz Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7953-9628",
+	"nome": "Fernando Mário Junqueira Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8184-8801",
+	"nome": "Luís Alexandre Machado Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7072-5184",
+	"nome": "Paulo José da Costa Branco",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4709-1718",
+	"nome": "Luís Paulo Gonçalves Reis",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1864-7457",
+	"nome": "Rita Alexandra Santos Gonçalves de Macedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6548-6396",
+	"nome": "António Manuel da Silva Pina",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2460-0556",
+	"nome": "Graça Maria Henriques Minas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1969-9937",
+	"nome": "Arminda Da Conceição Dos Santos Guerra e Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1751-7212",
+	"nome": "José Carlos Baptista Nascimento Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1929-0477",
+	"nome": "Manuel Melle Franco",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5478-0650",
+	"nome": "Nelson Troca Zagalo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2050-6565",
+	"nome": "Karolina Baras",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1454-030X",
+	"nome": "José Agostinho Sousa Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4882-9497",
+	"nome": "Alexandre Manuel Tavares Bragança",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3338-0236",
+	"nome": "Paulo Sérgio Tenreiro Magalhães",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4861-6686",
+	"nome": "Sérgio Miguel Carneiro Moro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0882-3426",
+	"nome": "Ana Isabel Rojão Lourenço Azevedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7955-7503",
+	"nome": "João Paulo Pereira Carmo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7634-0296",
+	"nome": "Filipe Jorge Mota Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2177-7321",
+	"nome": "Paulo Mateus Mendes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1225-3844",
+	"nome": "Fernando Reinaldo Silva Garcia Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1787-4084",
+	"nome": "Florbela Maria Cruz Domingues Correia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1874-7340",
+	"nome": "Jorge Manuel Ferreira Barbosa Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5471-8083",
+	"nome": "Luis António da Silva Rodrigues",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8897-5061",
+	"nome": "Nuno Alberto Ferreira Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1718-0226",
+	"nome": "Alberto Sérgio Sá Rodrigues Miguel",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7629-519X",
+	"nome": "Ricardo André Fernandes Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7096-6877",
+	"nome": "Ana Cristina Sousa Marques da Rocha Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3096-472X",
+	"nome": "João José Lopes Peixoto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5307-0465",
+	"nome": "Olga Marina Freitas Craveiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0697-8574",
+	"nome": "Maria Filipa Torres Gonçalves Flores Mourão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1120-9312",
+	"nome": "Marcos Silva Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7301-3211",
+	"nome": "Óscar Rafael Silva Ferreira Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3922-2746",
+	"nome": "Nuno Filipe Gomes Cardoso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3511-270X",
+	"nome": "Nuno Manuel Ferreira Braga",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4962-5832",
+	"nome": "Raid Mansi",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6046-497X",
+	"nome": "Reza Abrisham Baf",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8290-8578",
+	"nome": "Ana Lúcia Jesus Pinto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2159-7566",
+	"nome": "Cristina Maria dos Santos Moreira da Silva Sylla",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8626-6082",
+	"nome": "José Miguel Araújo Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9681-9659",
+	"nome": "Deborah Perrotta de Andrade",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5895-0880",
+	"nome": "Nicolas Francisco Lori",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4685-5632",
+	"nome": "Manuel João Oliveira Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1676-1256",
+	"nome": "Eduarda Coquet",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4901-1619",
+	"nome": "Rafael Teodósio Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5241-0111",
+	"nome": "Pedro Manuel Queirós Faria Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9138-9143",
+	"nome": "Bruno Moisés Texeira de Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3106-1503",
+	"nome": "Jorge Miguel Pereira Coutada Miranda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9736-5812",
+	"nome": "Duarte Manuel Azevedo Fernandes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0045-6038",
+	"nome": "Jorge Miguel Ventuzelos Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1901-1845",
+	"nome": "Gilberto Moisés Moma Capeça",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1430-5465",
+	"nome": "João Miguel Ribeiro Carneiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8039-1731",
+	"nome": "Orlando Ricardo Nunes Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4055-5882",
+	"nome": "Morgana Andrade",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1024-1118",
+	"nome": "Palwasha Afsar",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5480-0642",
+	"nome": "Isaías Scalabrin Bianchi",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8134-0696",
+	"nome": "Bruno Fernandes Exposto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0972-4171",
+	"nome": "Samih Eisa Suliman Abdalla",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5259-1891",
+	"nome": "Sandro Filipe Monteiro Queirós",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3590-5689",
+	"nome": "Nuno Miguel Almeida Luz",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4672-689X",
+	"nome": "Adriano Dídimo Machado de Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0561-6843",
+	"nome": "Wagner de Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4035-4159",
+	"nome": "Julio César Mera Macías",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2725-1067",
+	"nome": "Alexandre Luis Airoso Calado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8922-6951",
+	"nome": "Sérgio Lima Barroso Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0429-868X",
+	"nome": "Afonso Vilaça Bastos Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8776-3013",
+	"nome": "Teófilo Teixeira Branco Júnior",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5138-5244",
+	"nome": "Ailton Andersen Sanches Ferreira Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0393-5544",
+	"nome": "Ana Carina Figueiredo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1430-2806",
+	"nome": "António Pedro Miranda Vinagre de Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6326-5466",
+	"nome": "António Torres Barbosa Castro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4594-7532",
+	"nome": "César Ulisses Cruz Monteiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9248-8338",
+	"nome": "Bruno Orlando Sousa Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7653-6413",
+	"nome": "Fernando Paulo Belfo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2552-9141",
+	"nome": "Fábio Valter Inácio Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8641-7979",
+	"nome": "Fábio André da Costa Leitão",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1682-3717",
+	"nome": "Débora Dutra",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3204-5468",
+	"nome": "André Filipe Gonçalves Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8380-8408",
+	"nome": "Filipe Alexandre Andrade Salgado",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4621-5288",
+	"nome": "João Marco Cardoso da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3755-4931",
+	"nome": "Jorge Henrique de Frias Barbosa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0132-9620",
+	"nome": "José Pedro Silva Lopes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8736-287X",
+	"nome": "Julião Artur Francisco Mussa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1908-5505",
+	"nome": "João Filipe Cerqueira Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1994-0302",
+	"nome": "Nuno Ismael Castro Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1773-3684",
+	"nome": "Nuno Miguel da Rocha Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7450-0110",
+	"nome": "Paulo Adelino Dias de Almeida",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1041-5205",
+	"nome": "Paulo Fernando Rocha Garcia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5216-1939",
+	"nome": "Manuel António Marques Esteves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0434-1588",
+	"nome": "Pedro João Silva Leite",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6821-7770",
+	"nome": "Nuno André Mano Brito",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0063-4081",
+	"nome": "Marcelo António Da Cruz Pereira E Sousa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-2848-1606",
+	"nome": "Pedro Filipe Fernandes Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8772-6936",
+	"nome": "Ricardo Vieites Salgado Alves Gomes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8078-4148",
+	"nome": "Rui Candido Azevedo Ribeiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0395-5561",
+	"nome": "Sara Alexandra Gomes Correia",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7255-8319",
+	"nome": "Sara Filipa Martins de Sá",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4908-4458",
+	"nome": "Pedro Manuel Carqueijeiro Espiga da Maia Malta",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6219-3520",
+	"nome": "Liêda Amaral de Souza",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8332-489X",
+	"nome": "Nafiseh Mollaei",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5765-2622",
+	"nome": "Manuel Afonso Parente",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4298-0903",
+	"nome": "Sérgio Rafael Mano Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1040-459X",
+	"nome": "Tarsila Gabriel Castro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-8496-8179",
+	"nome": "Tiago Agostinho da Silva Gomes",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0698-7398",
+	"nome": "Ana Regina Macedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1766-5768",
+	"nome": "Tiago Costa de Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8627-3154",
+	"nome": "António Miguel Fernandes Martins",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6242-7398",
+	"nome": "Darya Yelshyna",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-0449-3725",
+	"nome": "Ana Cristina Cardoso",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7048-2629",
+	"nome": "Inês Moutinho da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-9001-1990",
+	"nome": "Diana Polostaki",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6699-0762",
+	"nome": "Fábio Oliveira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3541-7220",
+	"nome": "Joana Filipa Alves Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0854-8700",
+	"nome": "Filipa Alexandra Esteves de Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3914-5090",
+	"nome": "Joana Filipa Peixoto da Costa",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4274-824X",
+	"nome": "Joana Filipa Rodrigues de Matos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5229-1629",
+	"nome": "Anthony Jonathan da Silva Leal",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3149-6294",
+	"nome": "João Afonso Magalhães de Azevedo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6040-5534",
+	"nome": "João Carlos Ferreira Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3756-2870",
+	"nome": "António Adalberto de Araújo Alves Carneiro",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0947-5849",
+	"nome": "Ana Rita Lemos Costa e Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-1407-556X",
+	"nome": "João Fonseca",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6735-7459",
+	"nome": "João Marcelo da Silva Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-7965-3842",
+	"nome": "João Miguel Carriço Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6321-8328",
+	"nome": "João Pedro Sousa Mendes da Cunha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-5862-9539",
+	"nome": "Marco André Alves Pereira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4380-2030",
+	"nome": "Mariana Gonçalves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3750-4926",
+	"nome": "Luís André Ribeiro Carmo da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8293-3565",
+	"nome": "Miguel Alexandre Macedo Araújo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-2515-6055",
+	"nome": "João Diogo Teixeira Sepúlveda",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-6342-2054",
+	"nome": "Miguel António Mourão Abreu",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5758-1366",
+	"nome": "Miguel Ferreira Rego",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-4210-7661",
+	"nome": "Patrícia Sofia Duarte Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-6257-7567",
+	"nome": "Marcelo Paulo Nunes da Rocha",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-7357-4361",
+	"nome": "Ricardo Jorge Magalhães Teixeira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0665-2950",
+	"nome": "Ricardo Alves",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4695-9260",
+	"nome": "Ricardo Emanuel Fernandes da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0893-9373",
+	"nome": "Ricardo Manuel Tinoco Correia Carvalho",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3236-287X",
+	"nome": "Rui Francisco Lírio Sousa Augusto",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-5067-7322",
+	"nome": "Rui Sérgio Cunha Ferreira",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-1879-8869",
+	"nome": "Luís Filipe Pereira Bernardo",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9472-7176",
+	"nome": "Rui Miguel Quintas",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0001-8634-9630",
+	"nome": "Sara Catarina Santos da Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-4596-9862",
+	"nome": "Jonathan Mendes Leite",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-0353-8028",
+	"nome": "Luis Francisco da Cunha Cardoso de Faria",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0003-3259-1442",
+	"nome": "Susana Maria Araújo Silva",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-9514-7552",
+	"nome": "Tiago Manuel da Silva Santos",
+	"publicacoes": []
+},
+{
+	"_id": "0000-0002-3462-2479",
+	"nome": "Tiago Silva",
+	"publicacoes": []
+}]
+

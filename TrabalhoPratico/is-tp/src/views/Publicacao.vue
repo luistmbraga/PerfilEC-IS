@@ -2,8 +2,12 @@
   <div class="home">
     <v-card-title class="justify-center">
         Publicação 
-        {{infoPublicacao.titulo}}
     </v-card-title>
+    <center>
+        <v-text style="font-size:20px">
+           {{infoPublicacao.titulo}}
+        </v-text>
+      </center>
     <div v-if="infoPublicacao == undefined"/>
     <v-container v-else>
             <v-row class="justify-center">
@@ -86,9 +90,11 @@
                 </v-col>
             </v-row>
         <div v-if="infoPublicacao.source_id_issn != 'None'" >
-            <a v-bind:href="linkhref" title="SCImago Journal &amp; Country Rank">
+            <center>
+                <a v-bind:href="linkhref" title="SCImago Journal &amp; Country Rank">
                 <img border="0" v-bind:src="linksrc" alt="SCImago Journal &amp; Country Rank"  />
             </a>
+            </center>
         </div>
     </v-container>
     <v-container style="width:50%;">
@@ -131,8 +137,10 @@ export default {
       var idPub = this.id.replace("/","%2F");
       let response = await axios.get('http://localhost:3050/api/publicacoes/' + idPub)
       this.infoPublicacao = response.data[0]
+      console.log(this.infoPublicacao)
       this.linkhref = "https://www.scimagojr.com/journalsearch.php?q="+this.infoPublicacao.source_id_issn+"&amp;tip=sid&amp;exact=no"
       this.linksrc = "https://www.scimagojr.com/journal_img.php?id="+this.infoPublicacao.source_id_issn
+      console.log(this.infoPublicacao.source_id_issn)
       
   },
   methods :{

@@ -10,6 +10,7 @@ class PubSearcher(Command):
         self.MY_API_KEY = "90d8a7452d4e9c32bc2e0611c9db8160"
 
     def get_info_publicacao(self,ORCID_ID_, nomeautor):
+
         resp = requests.get("https://pub.orcid.org/v3.0/" + ORCID_ID_ + "/works", headers={'Accept': 'application/json'})
         results = resp.json()
 
@@ -38,6 +39,7 @@ class PubSearcher(Command):
 
             if (eid != 'None'):
                 newid = eid
+
                 resp = requests.get("http://api.elsevier.com/content/abstract/scopus_id/"+eid+"?field=issn,citedby-count"
                                     ,  headers={'Accept': 'application/json', 'X-ELS-APIKey': self.MY_API_KEY})
                 results = resp.json()

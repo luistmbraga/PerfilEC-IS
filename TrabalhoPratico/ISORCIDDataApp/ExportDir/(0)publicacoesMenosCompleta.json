@@ -1,0 +1,1939 @@
+[{
+	"_id": "85006351771",
+	"titulo": "Evolution in the number of authors of computer science publications",
+	"eid": "85006351771",
+	"doi": "10.1007/s11192-016-2214-9",
+	"wos": "None",
+	"issn": "15882861 01389130",
+	"local_de_publicacao": "Scientometrics",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "10",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85013756304",
+	"titulo": "Foreword of the thematic track quality aspects in agile methods",
+	"eid": "85013756304",
+	"doi": "10.1109/QUATIC.2016.027",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings - 2016 10th International Conference on the Quality of Information and Communications Technology, QUATIC 2016",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85030864953",
+	"titulo": "Improving visibility using RFID – the case of a company in the automotive sector",
+	"eid": "85030864953",
+	"doi": "10.1016/j.promfg.2017.09.048",
+	"wos": "None",
+	"issn": "23519789",
+	"local_de_publicacao": "Procedia Manufacturing",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "5",
+	"SJR": "0.313",
+	"source_id_issn": "21100792109"
+},
+{
+	"_id": "85025444508",
+	"titulo": "Industry-academia collaborations in software engineering",
+	"eid": "85025444508",
+	"doi": "10.1145/3084226.3084279",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "ACM International Conference Proceeding Series",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "6",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84975106767",
+	"titulo": "Promoting entrepreneurship among informatics engineering students: insights from a case study",
+	"eid": "84975106767",
+	"doi": "10.1080/03043797.2016.1197891",
+	"wos": "None",
+	"issn": "14695898 03043797",
+	"local_de_publicacao": "European Journal of Engineering Education",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "4",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85020729509",
+	"titulo": "Quantity versus impact of software engineering papers: a quantitative study",
+	"eid": "85020729509",
+	"doi": "10.1007/s11192-017-2419-6",
+	"wos": "None",
+	"issn": "15882861 01389130",
+	"local_de_publicacao": "Scientometrics",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "11",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84952836907",
+	"titulo": "Highly-cited papers in software engineering: The top-100",
+	"eid": "84952836907",
+	"doi": "10.1016/j.infsof.2015.11.003",
+	"wos": "None",
+	"issn": "09505849",
+	"local_de_publicacao": "Information and Software Technology",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "25",
+	"SJR": "0.615",
+	"source_id_issn": "18732"
+},
+{
+	"_id": "84982239375",
+	"titulo": "Quality attributes for mobile applications",
+	"eid": "84982239375",
+	"doi": "10.4018/978-1-4666-9916-8.ch008",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Modern Software Engineering Methodologies for Mobile and Cloud Environments",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84978224440",
+	"titulo": "Using scrum together with UML models: A collaborative university-industry R&amp;D software project",
+	"eid": "84978224440",
+	"doi": "10.1007/978-3-319-42089-9_34",
+	"wos": "None",
+	"issn": "16113349 03029743",
+	"local_de_publicacao": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "5",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "10.1007/978-3-319-30957-6_15",
+	"titulo": "iFloW: An integrated logistics software system for inbound supply chain traceability",
+	"eid": "None",
+	"doi": "10.1007/978-3-319-30957-6_15",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "None",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84947087310",
+	"titulo": "Comparing AHP and ELECTRE i for prioritizing software requirements",
+	"eid": "84947087310",
+	"doi": "10.1109/SNPD.2015.7176282",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2015 IEEE/ACIS 16th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing, SNPD 2015 - Proceedings",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "12",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84930260440",
+	"titulo": "Cyber-physical systems design: transition from functional to architectural models",
+	"eid": "84930260440",
+	"doi": "10.1007/s10617-015-9164-y",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Design Automation for Embedded Systems",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84937395190",
+	"titulo": "Preface",
+	"eid": "84937395190",
+	"doi": "10.1007/978-3-319-19593-3",
+	"wos": "None",
+	"issn": "18651348",
+	"local_de_publicacao": "Lecture Notes in Business Information Processing",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.243",
+	"source_id_issn": "17500155101"
+},
+{
+	"_id": "84955152511",
+	"titulo": "Requirements in Engineering Projects",
+	"eid": "84955152511",
+	"doi": "10.1007/978-3-319-18597-2",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Requirements in Engineering Projects",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "14",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84939873560",
+	"titulo": "Authorship trends in software engineering",
+	"eid": "84939873560",
+	"doi": "10.1007/s11192-014-1331-6",
+	"wos": "None",
+	"issn": "01389130",
+	"local_de_publicacao": "Scientometrics",
+	"ano": "2014",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "14",
+	"SJR": "1.113",
+	"source_id_issn": "24222"
+},
+{
+	"_id": "84872226409",
+	"titulo": "A transformation of business process models into software-executable models using MDA",
+	"eid": "84872226409",
+	"doi": "10.1007/978-3-642-35702-2_10",
+	"wos": "None",
+	"issn": "18651348",
+	"local_de_publicacao": "None",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "5",
+	"SJR": "0.243",
+	"source_id_issn": "17500155101"
+},
+{
+	"_id": "84888406467",
+	"titulo": "Assisting data warehousing populating processes design through modelling using coloured petri nets",
+	"eid": "84888406467",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "None",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84886096762",
+	"titulo": "Enriching MATLAB with aspect-oriented features for developing embedded systems",
+	"eid": "84886096762",
+	"doi": "10.1016/j.sysarc.2013.04.003",
+	"wos": "None",
+	"issn": "13837621",
+	"local_de_publicacao": "None",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "7",
+	"SJR": "0.271",
+	"source_id_issn": "12398"
+},
+{
+	"_id": "84883425378",
+	"titulo": "Guidelines for modelling reactive systems with coloured Petri nets",
+	"eid": "84883425378",
+	"doi": "10.1007/978-3-642-38209-3_8",
+	"wos": "None",
+	"issn": "03029743 16113349",
+	"local_de_publicacao": "None",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0003-1174-1966",
+			"nome": "João Miguel Lobo Fernandes"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85032883947",
+	"titulo": "A comparative study of the arcflow model and the one-cut model for one-dimensional cutting stock problems",
+	"eid": "85032883947",
+	"doi": "10.1016/j.ejor.2017.10.008",
+	"wos": "WOS:000423646700005",
+	"issn": "03772217",
+	"local_de_publicacao": "European Journal of Operational Research",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "11",
+	"SJR": "2.205",
+	"source_id_issn": "22489"
+},
+{
+	"_id": "85042371857",
+	"titulo": "Column Generation Based Approaches for Combined Routing and Scheduling",
+	"eid": "85042371857",
+	"doi": "10.1016/j.endm.2018.01.017",
+	"wos": "None",
+	"issn": "15710653",
+	"local_de_publicacao": "Electronic Notes in Discrete Mathematics",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "0.347",
+	"source_id_issn": "4700152427"
+},
+{
+	"_id": "85042378458",
+	"titulo": "Column generation based primal heuristics for routing and loading problems",
+	"eid": "85042378458",
+	"doi": "10.1016/j.endm.2018.01.015",
+	"wos": "None",
+	"issn": "15710653",
+	"local_de_publicacao": "Electronic Notes in Discrete Mathematics",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "0.347",
+	"source_id_issn": "4700152427"
+},
+{
+	"_id": "85042547024",
+	"titulo": "Models and advanced optimization algorithms for the integrated management of logistics operations",
+	"eid": "85042547024",
+	"doi": "10.1007/978-3-319-71583-4_21",
+	"wos": "None",
+	"issn": "21941017 21941009",
+	"local_de_publicacao": "Springer Proceedings in Mathematics and Statistics",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85041099479",
+	"titulo": "Variable neighborhood search algorithms for the vehicle routing problem with two-dimensional loading constraints and mixed linehauls and backhauls",
+	"eid": "85041099479",
+	"doi": "10.1111/itor.12509",
+	"wos": "None",
+	"issn": "14753995 09696016",
+	"local_de_publicacao": "International Transactions in Operational Research",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85017476709",
+	"titulo": "Variable neighborhood search algorithms for pickup and delivery problems with loading constraints",
+	"eid": "85017476709",
+	"doi": "10.1016/j.endm.2017.03.015",
+	"wos": "None",
+	"issn": "15710653",
+	"local_de_publicacao": "Electronic Notes in Discrete Mathematics",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-5566-845X",
+			"nome": "José Manuel Vasconcelos Valério Carvalho"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "0.347",
+	"source_id_issn": "4700152427"
+},
+{
+	"_id": "85042213538",
+	"titulo": "The roles of a Programme and Project Management Office to support collaborative university–industry R&amp;D",
+	"eid": "85042213538",
+	"doi": "10.1080/14783363.2018.1436963",
+	"wos": "None",
+	"issn": "14783371 14783363",
+	"local_de_publicacao": "Total Quality Management and Business Excellence",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85062848399",
+	"titulo": "An extension of the improving and embedding project management practice framework: Case study analysis",
+	"eid": "85062848399",
+	"doi": "10.1108/IJMPB-11-2017-0143",
+	"wos": "None",
+	"issn": "17538386 17538378",
+	"local_de_publicacao": "International Journal of Managing Projects in Business",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "4",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85063491162",
+	"titulo": "Energy End-Use Flexibility of the Next Generation of Decision-Makers in a Smart Grid Setting: An Exploratory Study",
+	"eid": "85063491162",
+	"doi": "10.1007/978-3-030-12950-7_2",
+	"wos": "None",
+	"issn": "18678211",
+	"local_de_publicacao": "Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.152",
+	"source_id_issn": "21100220348"
+},
+{
+	"_id": "85071483286",
+	"titulo": "From Program Strategic Planning to Program Initiation: Lessons learned from a collaborative University-Industry RD case study",
+	"eid": "85071483286",
+	"doi": "10.1109/ICE.2019.8792651",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings - 2019 IEEE International Conference on Engineering, Technology and Innovation, ICE/ITMC 2019",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85062883346",
+	"titulo": "Improving and embedding project management practice: Generic or context dependent?",
+	"eid": "85062883346",
+	"doi": "10.12821/ijispm070103",
+	"wos": "None",
+	"issn": "21827788 21827796",
+	"local_de_publicacao": "International Journal of Information Systems and Project Management",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85064228440",
+	"titulo": "Mining co-operatives: A model to establish a network for sustainability",
+	"eid": "85064228440",
+	"doi": "10.1016/j.jcom.2019.03.004",
+	"wos": "None",
+	"issn": "2213297X",
+	"local_de_publicacao": "Journal of Co-operative Organization and Management",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.587",
+	"source_id_issn": "21100247045"
+},
+{
+	"_id": "85084321672",
+	"titulo": "Operational risk categorization in project-based organizations: A theoretical perspective from a project portfolio risk lens",
+	"eid": "85084321672",
+	"doi": "None",
+	"wos": "None",
+	"issn": "23519789",
+	"local_de_publicacao": "Procedia Manufacturing",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.313",
+	"source_id_issn": "21100792109"
+},
+{
+	"_id": "85057160364",
+	"titulo": "Placing hubs in CO<inf>2</inf> pipelines: An application to industrial co<inf>2</inf> emissions in the Iberian Peninsula",
+	"eid": "85057160364",
+	"doi": "10.1016/j.apenergy.2018.11.050",
+	"wos": "None",
+	"issn": "03062619",
+	"local_de_publicacao": "Applied Energy",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "3.455",
+	"source_id_issn": "28801"
+},
+{
+	"_id": "85048560243",
+	"titulo": "Risk response strategies for collaborative university-industry R&amp;D funded programs",
+	"eid": "85048560243",
+	"doi": "10.1007/978-3-319-91334-6_71",
+	"wos": "None",
+	"issn": "18761119 18761100",
+	"local_de_publicacao": "Lecture Notes in Electrical Engineering",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85063472322",
+	"titulo": "Sustainability Assessment of High Voltage Transmission Lines",
+	"eid": "85063472322",
+	"doi": "10.1007/978-3-030-12950-7_7",
+	"wos": "None",
+	"issn": "18678211",
+	"local_de_publicacao": "Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.152",
+	"source_id_issn": "21100220348"
+},
+{
+	"_id": "85078948022",
+	"titulo": "Sustainable operations management for industry 4.0 and its social return",
+	"eid": "85078948022",
+	"doi": "10.1016/j.ifacol.2019.11.102",
+	"wos": "None",
+	"issn": "24058963",
+	"local_de_publicacao": "IFAC-PapersOnLine",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.298",
+	"source_id_issn": "21100456158"
+},
+{
+	"_id": "85052513603",
+	"titulo": "A Conceptual Social Media Tool for Supporting Collaborative University-Industry RD Programs",
+	"eid": "85052513603",
+	"doi": "10.1109/ICE.2018.8436297",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2018 IEEE International Conference on Engineering, Technology and Innovation, ICE/ITMC 2018 - Proceedings",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85056542682",
+	"titulo": "Awareness and attitudes towards demand response programs- A pilot study",
+	"eid": "85056542682",
+	"doi": "10.1109/SEST.2018.8495804",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2018 International Conference on Smart Energy Systems and Technologies, SEST 2018 - Proceedings",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85047335380",
+	"titulo": "Better late than never, but never late is better: Risk assessment of nuclear power construction projects",
+	"eid": "85047335380",
+	"doi": "10.1016/j.enpol.2018.05.041",
+	"wos": "None",
+	"issn": "03014215",
+	"local_de_publicacao": "Energy Policy",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "5",
+	"SJR": "1.988",
+	"source_id_issn": "29403"
+},
+{
+	"_id": "85042089065",
+	"titulo": "Modelling perception and attitudes towards renewable energy technologies",
+	"eid": "85042089065",
+	"doi": "10.1016/j.renene.2018.01.104",
+	"wos": "None",
+	"issn": "18790682 09601481",
+	"local_de_publicacao": "Renewable Energy",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "12",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85047512391",
+	"titulo": "Planning benefits realization in a collaborative university-industry R&amp;D funded program",
+	"eid": "85047512391",
+	"doi": "10.1109/ICE.2017.8279996",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2017 International Conference on Engineering, Technology and Innovation: Engineering, Technology and Innovation Management Beyond 2020: New Challenges, New Approaches, ICE/ITMC 2017 - Proceedings",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85045234038",
+	"titulo": "Project change request: A proposal for managing change in industrialization projects",
+	"eid": "85045234038",
+	"doi": "10.1109/IEEM.2017.8290148",
+	"wos": "None",
+	"issn": "2157362X 21573611",
+	"local_de_publicacao": "IEEE International Conference on Industrial Engineering and Engineering Management",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85061972829",
+	"titulo": "Project management practices for collaborative university-industry R&amp;D: A hybrid approach",
+	"eid": "85061972829",
+	"doi": "10.1016/j.procs.2018.10.105",
+	"wos": "None",
+	"issn": "18770509",
+	"local_de_publicacao": "Procedia Computer Science",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "0.281",
+	"source_id_issn": "19700182801"
+},
+{
+	"_id": "85054863292",
+	"titulo": "Sustainability awareness in Brazilian mining corporations: the case of Paraíba state",
+	"eid": "85054863292",
+	"doi": "10.1007/s10668-018-0171-6",
+	"wos": "None",
+	"issn": "15732975 1387585X",
+	"local_de_publicacao": "Environment, Development and Sustainability",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85047568021",
+	"titulo": "Usefullness of project management practices in industrialization projects - A case study",
+	"eid": "85047568021",
+	"doi": "10.1109/ICE.2017.8280005",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2017 International Conference on Engineering, Technology and Innovation: Engineering, Technology and Innovation Management Beyond 2020: New Challenges, New Approaches, ICE/ITMC 2017 - Proceedings",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85040245960",
+	"titulo": "A Method for Measuring the Success of Collaborative University-Industry R&amp;D Funded Contracts",
+	"eid": "85040245960",
+	"doi": "10.1016/j.procs.2017.11.061",
+	"wos": "None",
+	"issn": "18770509",
+	"local_de_publicacao": "Procedia Computer Science",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "4",
+	"SJR": "0.281",
+	"source_id_issn": "19700182801"
+},
+{
+	"_id": "85019898446",
+	"titulo": "A methodology for the identification of strategic technological competences: An application in the sheet metal equipment industry",
+	"eid": "85019898446",
+	"doi": "10.1016/j.futures.2017.05.002",
+	"wos": "None",
+	"issn": "00163287",
+	"local_de_publicacao": "Futures",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "4",
+	"SJR": "0.958",
+	"source_id_issn": "25561"
+},
+{
+	"_id": "85030841659",
+	"titulo": "Mining cooperatives in Brazil: an overview",
+	"eid": "85030841659",
+	"doi": "10.1016/j.promfg.2017.09.108",
+	"wos": "None",
+	"issn": "23519789",
+	"local_de_publicacao": "Procedia Manufacturing",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "0.313",
+	"source_id_issn": "21100792109"
+},
+{
+	"_id": "85028284932",
+	"titulo": "Project portfolio selection using a D.E.A. approach",
+	"eid": "85028284932",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Project Portfolio Management Strategies for Effective Organizational Operations",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "WOS:000444802100034",
+	"titulo": "SOCIAL AND ENVIRONMENTAL CONCERNS IN BRAZILIAN MINING CORPORATIONS",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000444802100034",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Energy and Environment (Icee 2017)",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85017261186",
+	"titulo": "Scenarios for the future Brazilian power sector based on a multi-criteria assessment",
+	"eid": "85017261186",
+	"doi": "10.1016/j.jclepro.2017.03.145",
+	"wos": "None",
+	"issn": "09596526",
+	"local_de_publicacao": "Journal of Cleaner Production",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "21",
+	"SJR": "1.62",
+	"source_id_issn": "19167"
+},
+{
+	"_id": "85030838875",
+	"titulo": "Towards Industry 4.0: an overview of European strategic roadmaps",
+	"eid": "85030838875",
+	"doi": "10.1016/j.promfg.2017.09.093",
+	"wos": "None",
+	"issn": "23519789",
+	"local_de_publicacao": "Procedia Manufacturing",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "44",
+	"SJR": "0.313",
+	"source_id_issn": "21100792109"
+},
+{
+	"_id": "85040236265",
+	"titulo": "Towards the development of a methodology for managing industrialization projects",
+	"eid": "85040236265",
+	"doi": "10.1016/j.procs.2017.11.113",
+	"wos": "None",
+	"issn": "18770509",
+	"local_de_publicacao": "Procedia Computer Science",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "0.281",
+	"source_id_issn": "19700182801"
+},
+{
+	"_id": "84995814257",
+	"titulo": "A methodology to incorporate risk and uncertainty in electricity power planning",
+	"eid": "84995814257",
+	"doi": "10.1016/j.energy.2016.03.080",
+	"wos": "None",
+	"issn": "03605442",
+	"local_de_publicacao": "Energy",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "14",
+	"SJR": "2.048",
+	"source_id_issn": "29348"
+},
+{
+	"_id": "85047518642",
+	"titulo": "A quantitative study to assess a program and project management approach for collaborative university-industry R &amp; D Funded Contracts",
+	"eid": "85047518642",
+	"doi": "10.1109/ICE/ITMC39735.2016.9026093",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2016 International Conference on Engineering, Technology and Innovation/IEEE lnternational Technology Management Conference, ICE/ITMC 2016 - Proceedings",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "6",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84982313517",
+	"titulo": "Energy and environment: bringing together engineering and economics",
+	"eid": "84982313517",
+	"doi": "10.1007/s10668-016-9846-z",
+	"wos": "None",
+	"issn": "15732975 1387585X",
+	"local_de_publicacao": "Environment, Development and Sustainability",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84986328622",
+	"titulo": "Group support systems features and their contribution to technology strategy decision-making: A review and analysis",
+	"eid": "84986328622",
+	"doi": "10.1007/978-3-319-41697-7_51",
+	"wos": "None",
+	"issn": "21945357",
+	"local_de_publicacao": "Advances in Intelligent Systems and Computing",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.174",
+	"source_id_issn": "5100152904"
+},
+{
+	"_id": "84986275966",
+	"titulo": "Improving and embedding project management practices in organizations—the human perspective",
+	"eid": "84986275966",
+	"doi": "10.1007/978-3-319-41697-7_50",
+	"wos": "None",
+	"issn": "21945357",
+	"local_de_publicacao": "Advances in Intelligent Systems and Computing",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.174",
+	"source_id_issn": "5100152904"
+},
+{
+	"_id": "WOS:000391277700018",
+	"titulo": "LOW-CARBON SCENARIOS FOR THE BRAZILIAN POWER SYSTEM",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700018",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84983311752",
+	"titulo": "Least-cost 100% renewable electricity scenarios",
+	"eid": "84983311752",
+	"doi": "10.1109/EEM.2016.7521262",
+	"wos": "None",
+	"issn": "21654093 21654077",
+	"local_de_publicacao": "International Conference on the European Energy Market, EEM",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "WOS:000391277700015",
+	"titulo": "METHODOLOGY FOR HUBS PLACEMENT ANALYSIS: AN APPLICATION TO PORTUGUESE INDUSTRIAL CO2 EMISSIONS",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700015",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84986268677",
+	"titulo": "Organizational learning and knowledge management—insights from industrial managers",
+	"eid": "84986268677",
+	"doi": "10.1007/978-3-319-41697-7_36",
+	"wos": "None",
+	"issn": "21945357",
+	"local_de_publicacao": "Advances in Intelligent Systems and Computing",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "0.174",
+	"source_id_issn": "5100152904"
+},
+{
+	"_id": "WOS:000391277700040",
+	"titulo": "PROJECT MANAGEMENT UNDER UNCERTAINTY: SOLUTION METHODS REVISITED",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700040",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85006944703",
+	"titulo": "Perceptions of Different Stakeholders on Managing Collaborative University-Industry R&amp;D Funded Contracts",
+	"eid": "85006944703",
+	"doi": "10.1016/j.procs.2016.09.238",
+	"wos": "None",
+	"issn": "18770509",
+	"local_de_publicacao": "Procedia Computer Science",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "6",
+	"SJR": "0.281",
+	"source_id_issn": "19700182801"
+},
+{
+	"_id": "WOS:000391277700008",
+	"titulo": "REQUIREMENTS FOR A PROJECT EVALUATION AND SELECTION METHODOLOGY",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700008",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "WOS:000391277700014",
+	"titulo": "SUSTAINABILITY IN SMALL-MEDIUM-ARTISANAL MINING ENTERPRISES IN BRAZIL",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700014",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "WOS:000391277700021",
+	"titulo": "UNDERSTANDING COST ESCALATION IN NUCLEAR REACTOR CONSTRUCTION PROJECTS",
+	"eid": "None",
+	"doi": "None",
+	"wos": "WOS:000391277700021",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 3rd International Conference on Project Evaluation (Icopev 2016)",
+	"ano": "2016",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84962850903",
+	"titulo": "A Program and Project Management Approach for Collaborative University-industry R&amp;D Funded Contracts",
+	"eid": "84962850903",
+	"doi": "10.1016/j.procs.2015.08.522",
+	"wos": "None",
+	"issn": "18770509",
+	"local_de_publicacao": "Procedia Computer Science",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "18",
+	"SJR": "0.281",
+	"source_id_issn": "19700182801"
+},
+{
+	"_id": "84929505369",
+	"titulo": "Improving and embedding project management practice in organisations - A qualitative study",
+	"eid": "84929505369",
+	"doi": "10.1016/j.ijproman.2015.01.012",
+	"wos": "None",
+	"issn": "02637863",
+	"local_de_publicacao": "International Journal of Project Management",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "24",
+	"SJR": "2.203",
+	"source_id_issn": "19696"
+},
+{
+	"_id": "84951913802",
+	"titulo": "Multicriteria scenario analysis on electricity production",
+	"eid": "84951913802",
+	"doi": "10.1109/EEM.2015.7216697",
+	"wos": "None",
+	"issn": "21654093 21654077",
+	"local_de_publicacao": "International Conference on the European Energy Market, EEM",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "3",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84976406974",
+	"titulo": "Project management under uncertainty: A study on solution methods",
+	"eid": "84976406974",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 26th International Business Information Management Association Conference - Innovation Management and Sustainable Economic Competitive Advantage: From Regional Development to Global Growth, IBIMA 2015",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84949983655",
+	"titulo": "Research and development project assessment and social impact",
+	"eid": "84949983655",
+	"doi": "10.1590/0103-6513.110212",
+	"wos": "None",
+	"issn": "19805411 01036513",
+	"local_de_publicacao": "Producao",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84994168654",
+	"titulo": "Towards a classification of technology strategy frameworks",
+	"eid": "84994168654",
+	"doi": "None",
+	"wos": "None",
+	"issn": "20488912",
+	"local_de_publicacao": "Proceedings of the European Conference on IS Management and Evaluation, ECIME",
+	"ano": "2015",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84904409374",
+	"titulo": "Developing a framework for embedding useful project management improvement initiatives in organizations",
+	"eid": "84904409374",
+	"doi": "10.1002/pmj.21441",
+	"wos": "None",
+	"issn": "19389507 87569728",
+	"local_de_publicacao": "Project Management Journal",
+	"ano": "2014",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "34",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "WOS:000360404800107",
+	"titulo": "Perceptions of Different Stakeholders on Improving and Embedding Project Management Practice in Organisations",
+	"eid": "None",
+	"doi": "10.1016/j.protcy.2014.10.049",
+	"wos": "WOS:000360404800107",
+	"issn": "None",
+	"local_de_publicacao": "Centeris 2014 - Conference on Enterprise Information Systems / Projman 2014 - International Conference on Project Management / Hcist 2014 - International Conference on Health and Social Care Information Systems and Technologies",
+	"ano": "2014",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84901508422",
+	"titulo": "Public opinion on renewable energy technologies in Portugal",
+	"eid": "84901508422",
+	"doi": "10.1016/j.energy.2013.10.074",
+	"wos": "None",
+	"issn": "03605442",
+	"local_de_publicacao": "Energy",
+	"ano": "2014",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "47",
+	"SJR": "2.048",
+	"source_id_issn": "29348"
+},
+{
+	"_id": "84875812510",
+	"titulo": "Evaluating future scenarios for the power generation sector using a Multi-Criteria Decision Analysis (MCDA) tool: The Portuguese case",
+	"eid": "84875812510",
+	"doi": "10.1016/j.energy.2012.12.036",
+	"wos": "None",
+	"issn": "03605442",
+	"local_de_publicacao": "Energy",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "71",
+	"SJR": "2.048",
+	"source_id_issn": "29348"
+},
+{
+	"_id": "84903185691",
+	"titulo": "Identifying useful project management practices: A mixed methodology approach",
+	"eid": "84903185691",
+	"doi": "10.12821/ijispm010401",
+	"wos": "None",
+	"issn": "21827788",
+	"local_de_publicacao": "International Journal of Information Systems and Project Management",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "18",
+	"SJR": "0.501",
+	"source_id_issn": "21100450117"
+},
+{
+	"_id": "84883080268",
+	"titulo": "Sustainability assessment of electricity production using a logic models approach",
+	"eid": "84883080268",
+	"doi": "10.1016/j.rser.2013.07.034",
+	"wos": "None",
+	"issn": "13640321",
+	"local_de_publicacao": "Renewable and Sustainable Energy Reviews",
+	"ano": "2013",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "15",
+	"SJR": "3.288",
+	"source_id_issn": "27567"
+},
+{
+	"_id": "84857186583",
+	"titulo": "A methodology to evaluate complex manufacturing systems through discrete-event simulation models",
+	"eid": "84857186583",
+	"doi": "10.4028/www.scientific.net/KEM.502.7",
+	"wos": "None",
+	"issn": "10139826",
+	"local_de_publicacao": "Key Engineering Materials",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "0.18",
+	"source_id_issn": "12378"
+},
+{
+	"_id": "84896526112",
+	"titulo": "A multi-criteria decision analysis tool to support electricity planning",
+	"eid": "84896526112",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings of the 25th International Conference on Efficiency, Cost, Optimization and Simulation of Energy Conversion Systems  and Processes, ECOS 2012",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84863300308",
+	"titulo": "Analysis of the Influence of the Production Sequence in an Automobile Assembly Line, Modeled as a Network of Closed-loops",
+	"eid": "84863300308",
+	"doi": "10.1063/1.4707615",
+	"wos": "None",
+	"issn": "0094243X 15517616",
+	"local_de_publicacao": "4th Manufacturing Engineering Society International Conference (Mesic 2011)",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84867971952",
+	"titulo": "Convergence of judgments in technological innovation audit: A case study application in a sheet metal processing equipment manufacturer",
+	"eid": "84867971952",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2012 Proceedings of Portland International Center for Management of Engineering and Technology: Technology Management for Emerging Technologies, PICMET'12",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84863333837",
+	"titulo": "Social Return of R&D Investments in Manufacturing Sector: Some Insights from an Exploratory Case Study",
+	"eid": "84863333837",
+	"doi": "10.1063/1.4707549",
+	"wos": "None",
+	"issn": "0094243X 15517616",
+	"local_de_publicacao": "4th Manufacturing Engineering Society International Conference (Mesic 2011)",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84897667949",
+	"titulo": "The impact of fuel and co2 prices on electricity power plans",
+	"eid": "84897667949",
+	"doi": "None",
+	"wos": "None",
+	"issn": "11082976",
+	"local_de_publicacao": "European Research Studies Journal",
+	"ano": "2012",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "0.297",
+	"source_id_issn": "21100216333"
+},
+{
+	"_id": "84898528528",
+	"titulo": "Knowledge management and the organisational learning: Towards a framework definition",
+	"eid": "84898528528",
+	"doi": "None",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Handbook of Research on Business Social Networking: Organizational, Managerial, and Technological Dimensions",
+	"ano": "2011",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "81855194256",
+	"titulo": "The inclusion of social aspects in power planning",
+	"eid": "81855194256",
+	"doi": "10.1016/j.rser.2011.07.114",
+	"wos": "None",
+	"issn": "13640321",
+	"local_de_publicacao": "Renewable and Sustainable Energy Reviews",
+	"ano": "2011",
+	"autores": [
+		{
+			"id": "0000-0002-3515-0135",
+			"nome": "Maria Madalena Teixeira Araújo"
+		}
+	],
+	"numero_citacoes": "57",
+	"SJR": "3.288",
+	"source_id_issn": "27567"
+},
+{
+	"_id": "85082955022",
+	"titulo": "Differential width discrimination task for active and passive tactile discrimination in humans",
+	"eid": "85082955022",
+	"doi": "10.1016/j.mex.2020.100852",
+	"wos": "None",
+	"issn": "22150161",
+	"local_de_publicacao": "MethodsX",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "0.478",
+	"source_id_issn": "21100317906"
+},
+{
+	"_id": "85077558688",
+	"titulo": "FIBR3DEmul—an open-access simulation solution for 3D printing processes of FDM machines with 3+ actuated axes",
+	"eid": "85077558688",
+	"doi": "10.1007/s00170-019-04713-y",
+	"wos": "None",
+	"issn": "14333015 02683768",
+	"local_de_publicacao": "International Journal of Advanced Manufacturing Technology",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "10.1007/978-3-030-41486-3_41",
+	"titulo": "Human-Centered Approach for the Design of a Collaborative Robotics Workstation",
+	"eid": "None",
+	"doi": "10.1007/978-3-030-41486-3_41",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "None",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "None",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85078502643",
+	"titulo": "Parkinson's Disease and Fabry Disease: Clinical, Biochemical and Neuroimaging Analysis of Three Pedigrees",
+	"eid": "85078502643",
+	"doi": "10.3233/JPD-191704",
+	"wos": "None",
+	"issn": "1877718X 18777171",
+	"local_de_publicacao": "Journal of Parkinson's Disease",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85082142874",
+	"titulo": "Towards Endowing Collaborative Robots with Fast Learning for Minimizing Tutors’ Demonstrations: What and When to Do?",
+	"eid": "85082142874",
+	"doi": "10.1007/978-3-030-35990-4_30",
+	"wos": "None",
+	"issn": "21945365 21945357",
+	"local_de_publicacao": "Advances in Intelligent Systems and Computing",
+	"ano": "2020",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85045249504",
+	"titulo": "Attractor dynamics approach to joint transportation by autonomous robots: theory, implementation and validation on the factory floor",
+	"eid": "85045249504",
+	"doi": "10.1007/s10514-018-9729-2",
+	"wos": "None",
+	"issn": "15737527 09295593",
+	"local_de_publicacao": "Autonomous Robots",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85062536194",
+	"titulo": "Artificial Neural Networks Classification of Patients with Parkinsonism based on Gait",
+	"eid": "85062536194",
+	"doi": "10.1109/BIBM.2018.8621466",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Proceedings - 2018 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2018",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85066802676",
+	"titulo": "Gait stride-to-stride variability and foot clearance pattern analysis in Idiopathic Parkinson's Disease and Vascular Parkinsonism",
+	"eid": "85066802676",
+	"doi": "10.1016/j.jbiomech.2019.05.039",
+	"wos": "None",
+	"issn": "18732380 00219290",
+	"local_de_publicacao": "Journal of Biomechanics",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85072855862",
+	"titulo": "Neural Field Model for Measuring and Reproducing Time Intervals",
+	"eid": "85072855862",
+	"doi": "10.1007/978-3-030-30487-4_26",
+	"wos": "None",
+	"issn": "16113349 03029743",
+	"local_de_publicacao": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85069971068",
+	"titulo": "Numerical analysis of the shape of bump solutions in a neuronal model of working memory",
+	"eid": "85069971068",
+	"doi": "10.1063/1.5114243",
+	"wos": "None",
+	"issn": "15517616 0094243X",
+	"local_de_publicacao": "AIP Conference Proceedings",
+	"ano": "2019",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85033224212",
+	"titulo": "Position-based kinematics for 7-DoF serial manipulators with global configuration control, joint limit and singularity avoidance",
+	"eid": "85033224212",
+	"doi": "10.1016/j.mechmachtheory.2017.10.025",
+	"wos": "None",
+	"issn": "0094114X",
+	"local_de_publicacao": "Mechanism and Machine Theory",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "13",
+	"SJR": "1.317",
+	"source_id_issn": "21094"
+},
+{
+	"_id": "85050365965",
+	"titulo": "Towards temporal cognition for robots: A neurodynamics approach",
+	"eid": "85050365965",
+	"doi": "10.1109/DEVLRN.2017.8329836",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "7th Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics, ICDL-EpiRob 2017",
+	"ano": "2018",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "1",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "84988458201",
+	"titulo": "A simple control approach for stereotactic neurosurgery using a robotic manipulator",
+	"eid": "84988458201",
+	"doi": "10.1007/978-3-319-43671-5_34",
+	"wos": "None",
+	"issn": "18761119 18761100",
+	"local_de_publicacao": "Lecture Notes in Electrical Engineering",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "2",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85026868131",
+	"titulo": "A software framework for the implementation of Dynamic Neural Field control architectures for human-robot interaction",
+	"eid": "85026868131",
+	"doi": "10.1109/ICARSC.2017.7964067",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "2017 IEEE International Conference on Autonomous Robot Systems and Competitions, ICARSC 2017",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+},
+{
+	"_id": "85044349774",
+	"titulo": "Difcor analyzing behavior and adaptability in obstacle crossing in arkinson’s disease",
+	"eid": "85044349774",
+	"doi": "10.2147/CIA.S147428",
+	"wos": "None",
+	"issn": "None",
+	"local_de_publicacao": "Clinical Interventions in Aging",
+	"ano": "2017",
+	"autores": [
+		{
+			"id": "0000-0003-2715-4037",
+			"nome": "Estela Guerreiro Silva Bicho Erlhagen"
+		}
+	],
+	"numero_citacoes": "0",
+	"SJR": "None",
+	"source_id_issn": "None"
+}]
+

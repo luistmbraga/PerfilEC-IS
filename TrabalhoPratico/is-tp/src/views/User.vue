@@ -1,15 +1,22 @@
 <template>
   <div class="home">
-    <v-card-title class="justify-center">
-        Investigador {{utilizador.nome}}
-    </v-card-title>
-    <v-container class="justify-center">
-        <v-text> <b> ORCID                :</b>     {{utilizador._id}} </v-text>
-        <p><v-text> <b> Numero de publicacões:</b>     {{utilizador.publicacoes.length}}</v-text></p>
-    </v-container>
-    <div style="width:70%;margin-left:auto;margin-right:auto;">
-      <TabelaPublicacoes v-if="utilizador.publicacoes.length!=0" :publicacoes="utilizador.publicacoes" />
-    </div>  
+    <v-card>
+      <v-card-title class="justify-center">
+          Investigador
+      </v-card-title>
+      <center>
+        <v-text style="font-size:30px">
+           {{utilizador.nome}}
+        </v-text>
+      </center>
+      <v-container class="justify-center">
+          <v-text> <b> ORCID                :</b>     {{utilizador._id}} </v-text>
+          <p><v-text> <b> Numero de publicacões:</b>     {{utilizador.publicacoes.length}}</v-text></p>
+      </v-container>
+      <div style="width:70%;margin-left:auto;margin-right:auto;">
+        <TabelaPublicacoes v-if="utilizador.publicacoes.length!=0" :publicacoes="utilizador.publicacoes" />
+      </div> 
+    </v-card> 
   </div>
 </template>
 
