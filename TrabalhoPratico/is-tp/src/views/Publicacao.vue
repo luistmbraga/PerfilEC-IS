@@ -137,10 +137,8 @@ export default {
       var idPub = this.id.replace("/","%2F");
       let response = await axios.get('http://localhost:3050/api/publicacoes/' + idPub)
       this.infoPublicacao = response.data[0]
-      console.log(this.infoPublicacao)
       this.linkhref = "https://www.scimagojr.com/journalsearch.php?q="+this.infoPublicacao.source_id_issn+"&amp;tip=sid&amp;exact=no"
       this.linksrc = "https://www.scimagojr.com/journal_img.php?id="+this.infoPublicacao.source_id_issn
-      console.log(this.infoPublicacao.source_id_issn)
       
   },
   methods :{
