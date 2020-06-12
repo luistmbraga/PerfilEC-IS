@@ -40,24 +40,32 @@ class PubSearcher(Command):
             if (eid != 'None'):
                 newid = eid
 
-                resp = requests.get("http://api.elsevier.com/content/abstract/scopus_id/"+eid+"?field=issn,citedby-count"
-                                    ,  headers={'Accept': 'application/json', 'X-ELS-APIKey': self.MY_API_KEY})
-                results = resp.json()
-
-                numero_citacoes = self.get_numero_citacoes(results)
-
                 try:
-                    issn = results["abstracts-retrieval-response"]["coredata"]["prism:issn"]
+                    resp = requests.get("http://api.elsevier.com/content/abstract/scopus_id/"+eid+"?field=issn,citedby-count"
+                                        ,  headers={'Accept': 'application/json', 'X-ELS-APIKey': self.MY_API_KEY})
+                    results = resp.json()
+
+                    numero_citacoes = self.get_numero_citacoes(results)
+
                     try:
-                        resp = requests.get("https://api.elsevier.com/content/serial/title/issn/"+issn+"?apiKey="+ self.MY_API_KEY)
-                        results = resp.json()
-                        source_id_issn = results["serial-metadata-response"]["entry"][0]["source-id"]
-                        sjr = results["serial-metadata-response"]["entry"][0]["SJRList"]["SJR"][0]["$"]
+                        issn = results["abstracts-retrieval-response"]["coredata"]["prism:issn"]
+                        try:
+                            resp = requests.get("https://api.elsevier.com/content/serial/title/issn/"+issn+"?apiKey="+ self.MY_API_KEY)
+                            results = resp.json()
+                            source_id_issn = results["serial-metadata-response"]["entry"][0]["source-id"]
+                            sjr = results["serial-metadata-response"]["entry"][0]["SJRList"]["SJR"][0]["$"]
+                        except:
+                            sjr = 'None'
+                            source_id_issn = 'None'
                     except:
-                        sjr = 'None'
-                        source_id_issn = 'None'
+                        issn = 'None'
                 except:
+                    print("APIKEY atingiu o máximo de pedidos")
+                    sjr = 'None'
+                    source_id_issn = 'None'
                     issn = 'None'
+                    numero_citacoes = 'None'
+
             else:
                 if (wos != 'None'):
                     newid = wos
@@ -66,7 +74,7 @@ class PubSearcher(Command):
                         newid = doi
 
             if (newid == 'None'):
-                break
+                continue
 
             summary = r['work-summary']
 
@@ -143,5 +151,3 @@ class PubSearcher(Command):
 if __name__ == '__main__':
     pubs = PubSearcher()
     pubs.complete_info()
-    #get_scopus_info("85045332393") # 85016006344 85057139340 85047267736 85045332393
-    # readfile("../ORCIDscraper/orcids.txt")
